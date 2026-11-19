@@ -1,0 +1,185 @@
+{
+    "mbid": "3d291f48-a8be-4113-baad-c73618a7897d",
+    "artist": "Yandel",
+    "albums": [
+        {
+            "id": "0c7055a0-77bf-4f25-88cf-45110fbcc0c3",
+            "title": "Hable de Ti",
+            "first-release-date": "2013-10-07",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "214217d6-b2a7-4d24-8e9e-09f06e0cc547",
+            "title": "The One",
+            "first-release-date": "2019-03-29",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "21b233f5-4cea-4044-88f7-e1b89a3550d1",
+            "title": "Amor real",
+            "first-release-date": "2013-02-12",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "221d0d0a-09a9-411f-a431-d997965eb6fa",
+            "title": "Legacy: De l\u00edder a leyenda tour",
+            "first-release-date": "2014-08-25",
+            "primary-type": "EP",
+            "secondary-types": []
+        },
+        {
+            "id": "2fd00eda-aad6-4ad9-82da-a27d6e071176",
+            "title": "Mi combo",
+            "first-release-date": "2016-04-01",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "3cb51b61-d614-47d4-979b-d0932baf3ce5",
+            "title": "SINF\u00d3NICO",
+            "first-release-date": "2025-04-03",
+            "primary-type": "Album",
+            "secondary-types": [
+                "Live"
+            ]
+        },
+        {
+            "id": "53978aaa-78c1-4a84-9cdf-8cd8159d0dea",
+            "title": "De l\u00edder a leyenda",
+            "first-release-date": "2013-11-05",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "568c23a6-419d-489d-932a-8878aeaaebd1",
+            "title": "Perm\u00edtame",
+            "first-release-date": "2008-01-01",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "5a45bcb0-1d70-4f18-bbfb-6c77a04d0ad5",
+            "title": "Infinito",
+            "first-release-date": "2026-01-22",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "5bb8d9fc-642c-48e7-a410-b1fe7a0098ec",
+            "title": "ELYTE",
+            "first-release-date": "2024-10-10",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "66790210-0219-41f1-8247-950f5a9badff",
+            "title": "#Update",
+            "first-release-date": "2017-09-08",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "6a1063c8-2b98-4252-80dc-60f81e914050",
+            "title": "Dangerous",
+            "first-release-date": "2015-11-06",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "6fb94811-447d-4995-bde7-c538a44a0d42",
+            "title": "Legacy: De l\u00edder a leyenda Tour",
+            "first-release-date": "2015-02-03",
+            "primary-type": "Album",
+            "secondary-types": [
+                "Live"
+            ]
+        },
+        {
+            "id": "71d611f8-bb00-453a-9592-04bdeb48c4cf",
+            "title": "Qui\u00e9n contra m\u00ed 2",
+            "first-release-date": "2020-07-31",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "88540b6b-2acc-4c65-b9b4-0b5afd0de939",
+            "title": "Calentura",
+            "first-release-date": "2015-03-16",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "9af3889e-5114-3f13-822a-e44ce0b6597f",
+            "title": "Qui\u00e9n contra m\u00ed",
+            "first-release-date": "2003-09-15",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "a3175117-a18f-491c-aea4-97bd64cd72e5",
+            "title": "Resistencia",
+            "first-release-date": "2023-01-13",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "a4c7c056-87d4-42cc-8c33-91cb223560db",
+            "title": "In Your Eyes",
+            "first-release-date": "2013-02-27",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "ae83a824-a4bc-4dcb-b6ab-8906dc605def",
+            "title": "B\u00e1ilame",
+            "first-release-date": "2015-07-31",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "b552866d-53f8-47b0-8c03-0b3a8925b20a",
+            "title": "DYNASTY",
+            "first-release-date": "2021-07-15",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "b808fe79-ee0a-44db-b3d1-6ba2db24f2b6",
+            "title": "Ay mi Dios",
+            "first-release-date": "2016-02-22",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "ba7abc73-10de-42f0-9952-c77b2b258f93",
+            "title": "Fronteamos porque podemos",
+            "first-release-date": "2015-08-28",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "ca2938ea-5f5e-4b4f-98cb-ad48a776aa20",
+            "title": "Como yo te quiero",
+            "first-release-date": "2015-04-21",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "ca4e3a41-0e2d-4989-8f7c-f1a04432581b",
+            "title": "MANIFESTING 20-05",
+            "first-release-date": "2024-04-10",
+            "primary-type": "EP",
+            "secondary-types": []
+        },
+        {
+            "id": "d8964ea1-b435-4be6-9dff-9b9bd23317aa",
+            "title": "Sexo seguro",
+            "first-release-date": "2009-08-31",
+            "primary-type": "Single",
+            "secondary-types": []
+        }
+    ]
+}

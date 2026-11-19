@@ -1,0 +1,181 @@
+{
+    "mbid": "9567ea4f-7321-400d-a134-ad5f45b67335",
+    "artist": "KAROL G",
+    "albums": [
+        {
+            "id": "00265c42-a275-432e-bc36-04d2fe1e244d",
+            "title": "Sommernacht in Rom",
+            "first-release-date": "1985",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "05cf2346-5492-3361-81bd-037eb503115b",
+            "title": "F\u00fcr Dich",
+            "first-release-date": "2005-05-30",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "0830b39b-8ac3-458c-bb83-48159d19c309",
+            "title": "Einmal h\u00fch \u2013 einmal hott",
+            "first-release-date": "2004-06-07",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "12f09391-7002-4e36-857f-44c5fa51b39f",
+            "title": "Heut\u2019 geht\u2019s uns gut",
+            "first-release-date": "1990",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "19ad2e0a-36da-47b2-957a-043ec7a96b51",
+            "title": "Ich glaube an die Z\u00e4rtlichkeit",
+            "first-release-date": "1986",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "1d22c5c8-64ec-4644-96dd-14825b844b2b",
+            "title": "Eine Insel f\u00fcr uns beide",
+            "first-release-date": "2011-07-01",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "20ac251e-ed02-36ce-8614-f35deedc9cfc",
+            "title": "Zeit zum Tr\u00e4umen",
+            "first-release-date": "2006",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "3581ad58-114a-45da-ab37-94189f9fd67f",
+            "title": "San Valentino",
+            "first-release-date": "2013-01-25",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "3c886edc-30e4-40f4-851b-e00cba9353f3",
+            "title": "G.G. Anderson \u201998",
+            "first-release-date": "1998-03-06",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "45b08bbf-8f72-45f9-8af6-f9acb4dbb2af",
+            "title": "Was ich dir sagen m\u00f6chte",
+            "first-release-date": "1985-09",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "504b500b-2bbb-4b11-b77a-e6e34353b7ee",
+            "title": "Die Sterne von Rom",
+            "first-release-date": "2014-08-01",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "563940e5-1e59-4b3c-bdab-83b708754988",
+            "title": "Feuer & Flamme",
+            "first-release-date": "2001",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "66306610-83b2-427b-b0b1-acf32ce0262b",
+            "title": "Ich lieb dich",
+            "first-release-date": "1994-04-01",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "7c16bb9d-3b4c-41da-a8e0-f56f1c0a6ef4",
+            "title": "Traumreise f\u00fcr Zwei",
+            "first-release-date": "1989-08-18",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "7e68bf5e-1f02-4e98-a29f-a3191309f736",
+            "title": "Always and Ever",
+            "first-release-date": "1981",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "83a7daa8-9381-30eb-ae49-1e48eb975917",
+            "title": "Nein hei\u00dft ja",
+            "first-release-date": "2000-08-28",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "9ef5f602-25f8-4a95-a7e1-5205a18c63fc",
+            "title": "Herz auf Rot",
+            "first-release-date": "2003-06-23",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "a2c25031-5518-418d-9493-55b2739c02f8",
+            "title": "La\u00df uns tr\u00e4umen",
+            "first-release-date": "1984-09",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "abc5c166-5531-4604-9019-8406c8c44f4f",
+            "title": "Eine Nacht die nie vergeht",
+            "first-release-date": "1999-08-20",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "cb2b82a3-75ba-46b1-849a-229d0d07e9be",
+            "title": "Lebenslust",
+            "first-release-date": "2007-06-22",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "cfce2bb1-40f6-4564-bbb1-122c397750b6",
+            "title": "Herzklopfen",
+            "first-release-date": "1988-10",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "dcca95df-193c-4975-b864-acbfc0e9f2c3",
+            "title": "Vergi\u00df die Liebe nicht",
+            "first-release-date": "1987",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "e21b2ecb-202e-4c04-b31f-a68848ce26fb",
+            "title": "Alle Liebe dieser Welt",
+            "first-release-date": "2009-02-06",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "efdcf4da-4afb-490c-9f38-bf1b55590952",
+            "title": "Weisse Rosen schenk' ich dir",
+            "first-release-date": "1992-08-03",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "f804a717-fbac-42b4-bc74-b83fa5a69051",
+            "title": "Besser geht nicht",
+            "first-release-date": "2010-04-23",
+            "primary-type": "Album",
+            "secondary-types": []
+        }
+    ]
+}

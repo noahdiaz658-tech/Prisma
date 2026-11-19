@@ -1,0 +1,185 @@
+{
+    "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+    "artist": "Bad Bunny",
+    "albums": [
+        {
+            "id": "00447e1f-0b1c-44e6-9164-d500f2f0d1de",
+            "title": "1 polvo",
+            "first-release-date": "2016-11-16",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "1591a80c-7aae-426e-8ec7-164f24ac3e1f",
+            "title": "LAS QUE NO IBAN A SALIR",
+            "first-release-date": "2020-05-10",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "2528ede6-ad44-4d1b-9e9f-030d29e4a3be",
+            "title": "El conejo malo",
+            "first-release-date": "2017-03-28",
+            "primary-type": "Album",
+            "secondary-types": [
+                "Mixtape/Street"
+            ]
+        },
+        {
+            "id": "3c1e782f-1fb1-49d4-8090-c12ab79ba927",
+            "title": "Up Next (Live From Apple Piazza Liberty)",
+            "first-release-date": "2019-08-30",
+            "primary-type": "Album",
+            "secondary-types": [
+                "Live"
+            ]
+        },
+        {
+            "id": "49560ded-cdd0-4727-af54-725b749fd9fa",
+            "title": "Diles",
+            "first-release-date": "2016-08-26",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "4a526a05-f928-4037-a6da-acf3bd079cbd",
+            "title": "Pa Que Le De",
+            "first-release-date": "2017-01-10",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "4b550700-6912-4f3b-a804-bac8da786629",
+            "title": "EL \u00daLTIMO TOUR DEL MUNDO",
+            "first-release-date": "2020-11-27",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "4bf41242-0a5f-46a4-b676-93b081c88f71",
+            "title": "nadie sabe lo que va a pasar ma\u00f1ana",
+            "first-release-date": "2023-10-13",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "54976c04-e3f9-4eac-a8b2-b88d87d7f0e6",
+            "title": "OASIS",
+            "first-release-date": "2019-06-28",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "5a3142f5-068b-4e50-a1f3-1f5f557d631c",
+            "title": "Me acostumbr\u00e9",
+            "first-release-date": "2017-02-19",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "5a6f2180-9b6f-43b3-bf73-0d94e0974983",
+            "title": "Caile",
+            "first-release-date": "2016-12-25",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "6167cb8d-63fc-4278-8898-942140bbe9be",
+            "title": "Si tu novio te deja sola",
+            "first-release-date": "2017-03-03",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "6674a394-e39f-408f-985e-e795a347b9d3",
+            "title": "T\u00fa no vive as\u00ed",
+            "first-release-date": "2016-09-30",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "68f8c63d-3e54-4f26-8ce3-41a7bc1ca7fd",
+            "title": "X 100PRE",
+            "first-release-date": "2018-12-24",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "9f1c4a4b-fa9c-4bd8-bba2-6384250eba80",
+            "title": "Soy peor",
+            "first-release-date": "2016-12-08",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "a2f58d86-25ca-422a-a429-97fa7dd6c20d",
+            "title": "Crec\u00eda",
+            "first-release-date": "2017-01-27",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "b3073a10-2d7c-484c-b387-e49ae629da3d",
+            "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
+            "first-release-date": "2025-01-05",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "b722e531-8860-43fa-9c19-1300df62c9f8",
+            "title": "Me llueven 2",
+            "first-release-date": "2017-03-02",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "c5af57d6-2c56-4983-8489-c0001cd37729",
+            "title": "Me llueven 3.0",
+            "first-release-date": "2017-03-10",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "da9131b7-b96c-4efd-ab71-44c19d8a1493",
+            "title": "Te lo meto yo",
+            "first-release-date": "2017-01-19",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "e20e0bc0-4660-461b-8ac7-14ad2459cda6",
+            "title": "YHLQMDLG",
+            "first-release-date": "2020-02-29",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "e992b449-141b-4aea-b07b-9b2a478a8570",
+            "title": "Un verano sin ti",
+            "first-release-date": "2022-05-06",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "ebb0c8c2-17d3-4f25-b295-de72a3b03dfd",
+            "title": "Pa' ti",
+            "first-release-date": "2016-12-27",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "fc30ca45-3369-41f3-939e-3c5f56279e95",
+            "title": "No te hagas",
+            "first-release-date": "2017-03-11",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "fd9b79e0-d044-4745-852b-fecf2225add2",
+            "title": "Me llamas",
+            "first-release-date": "2016-11-09",
+            "primary-type": "Single",
+            "secondary-types": []
+        }
+    ]
+}

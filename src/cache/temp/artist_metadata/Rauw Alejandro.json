@@ -1,0 +1,183 @@
+{
+    "mbid": "197b70c7-8910-4030-ad03-632d82aa40e3",
+    "artist": "Rauw Alejandro",
+    "albums": [
+        {
+            "id": "05e90f85-717c-40f0-a565-bfad7a756bda",
+            "title": "TRAPPERZ A Mafia Da Sicilia",
+            "first-release-date": "2019-06-21",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "282fd068-7062-4ad9-a5f0-1eea931eec24",
+            "title": "Que bien te ves",
+            "first-release-date": "2018-12-26",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "44467c48-0bd4-4acd-98c5-0d8da57e7ad1",
+            "title": "TRAP CAKE, VOL. 2",
+            "first-release-date": "2022-02-25",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "5074eee9-74d2-4e6b-8950-061d0e5ff0a6",
+            "title": "Fantasias",
+            "first-release-date": "2019-08-29",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "554cf58a-e835-4669-8617-aafc7cdb04e4",
+            "title": "Trap Cake, Vol. 1",
+            "first-release-date": "2019-05-31",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "632e0b2a-94b7-4757-84e2-a021780acc33",
+            "title": "Punto de equilibrio",
+            "first-release-date": "2016-11-30",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "64f46870-c961-4cad-b5d5-a2e087b48d27",
+            "title": "Restringida",
+            "first-release-date": "2018-09-17",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "6edc42e5-dd2c-4317-aafb-ce2653498fa3",
+            "title": "Que le d\u00e9",
+            "first-release-date": "2019-01-25",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "77cc6415-1abf-487a-a8b7-e56061cba518",
+            "title": "Cosa nuestra",
+            "first-release-date": "2024-11-15",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "786f5aec-d59c-491c-aee6-baaff09a81c8",
+            "title": "Cosa nuestra: Cap\u00edtulo 0",
+            "first-release-date": "2025-09-26",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "7df84638-8137-42c0-a84a-608088781f0e",
+            "title": "Date tu guille",
+            "first-release-date": "2019-07-19",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "87a0094c-4977-4abf-82d3-9e919d57c183",
+            "title": "Te hace falta",
+            "first-release-date": "2019-06-14",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "89c26a1a-7c23-4dec-891f-22f5fd2c6f3f",
+            "title": "VICE VERSA",
+            "first-release-date": "2021-06-05",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "8b89f610-b25b-470c-a5df-144bbb9769aa",
+            "title": "RR",
+            "first-release-date": "2023-03-24",
+            "primary-type": "EP",
+            "secondary-types": []
+        },
+        {
+            "id": "8ef2a8db-c194-4d59-8158-271be63f4d6c",
+            "title": "PLAYA SATURNO",
+            "first-release-date": "2023-07-07",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "93f1bf08-a69b-4ffe-8c56-63470c337546",
+            "title": "Toda",
+            "first-release-date": "2017-12-22",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "a6602ef4-a1cd-46af-abef-2b55ec1fd08c",
+            "title": "Luz apaga",
+            "first-release-date": "2018-11-16",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "b4b95d05-60e3-4d71-82f1-c63dec3a376c",
+            "title": "SATURNO",
+            "first-release-date": "2022-11-11",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "c19fa983-b7f5-43fe-b8f2-9914eef2615a",
+            "title": "El efecto",
+            "first-release-date": "2019-03-15",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "cb40d627-6786-4a43-87cc-108287e64c6c",
+            "title": "Concierto Virtual en Tiempos de COVID-19 Desde el Coliseo de Puerto Rico",
+            "first-release-date": "2020-05-29",
+            "primary-type": "Album",
+            "secondary-types": [
+                "Live"
+            ]
+        },
+        {
+            "id": "decb6e89-e69e-4fd7-9d67-f70265ca012a",
+            "title": "Afrodis\u00edaco",
+            "first-release-date": "2020-11-13",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "e31d7178-e8f1-4c89-9cc2-d6a8a47b9ad3",
+            "title": "Combinamos",
+            "first-release-date": "2018-11-30",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "e7f9295d-f218-4b45-9ba3-a6087fcb0b6e",
+            "title": "T.T.I.",
+            "first-release-date": "2018-09-21",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "e9d64e11-9689-4abd-8954-1fec9a466d18",
+            "title": "Rompe cabezas",
+            "first-release-date": "2019-06-28",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "f8c3e2dd-27ba-4952-b8e0-71f80c261a0c",
+            "title": "La pastillita (Remix)",
+            "first-release-date": "2018-09-07",
+            "primary-type": "Single",
+            "secondary-types": []
+        }
+    ]
+}

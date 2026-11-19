@@ -1,0 +1,168 @@
+{
+    "mbid": "a89326cc-8fb3-4cdd-9fc6-69386e95cbd2",
+    "artist": "Cris MJ",
+    "albums": [
+        {
+            "id": "06642d60-88b6-4ca6-a2c7-48c95d96e227",
+            "title": "Yo no me olvido",
+            "first-release-date": "2022-04-15",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "0f4c2b52-71c4-493e-befe-c655de40c02f",
+            "title": "Presidente",
+            "first-release-date": "2026-04-02",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "16d38664-f59f-4938-8d15-65594b52b1e3",
+            "title": "LAS FILTRADAS",
+            "first-release-date": "2025-12-25",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "182c7a62-8c43-4b00-a5ac-3b2750da953a",
+            "title": "Gata Only",
+            "first-release-date": "2024-02-02",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "2c7054ed-3275-429c-8b74-94348b95c589",
+            "title": "SI NO ES CONTIGO",
+            "first-release-date": "2024-05-23",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "34c6a63a-9545-47ed-9202-55d4621f497a",
+            "title": "Apocalipsis",
+            "first-release-date": "2025-06-27",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "356e277d-ad21-4354-8561-26ac023e900b",
+            "title": "Ll\u00e1mame beb\u00e9",
+            "first-release-date": "2022-12-24",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "4d0bede2-e952-4f13-b5ad-d01c48a53aaf",
+            "title": "666",
+            "first-release-date": "2026-04-16",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "51a85192-170d-423c-8019-4f448686f992",
+            "title": "GANAS REMIX",
+            "first-release-date": "2026-05-28",
+            "primary-type": "Single",
+            "secondary-types": [
+                "Remix"
+            ]
+        },
+        {
+            "id": "540aeaa5-28f5-4e85-bd8b-82f2eacc7f98",
+            "title": "Diab\u00f3lica",
+            "first-release-date": "2023-11-08",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "5ed6b6cd-89e5-4689-9db9-fcbede44ebf2",
+            "title": "Marisola (remix)",
+            "first-release-date": "2022-07-22",
+            "primary-type": "Single",
+            "secondary-types": [
+                "Remix"
+            ]
+        },
+        {
+            "id": "9cfb9155-0a92-4d14-827f-a0aa20889152",
+            "title": "MJ",
+            "first-release-date": "2024-09-12",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "a25b4170-d1b2-49fc-a5d1-254f17d806a0",
+            "title": "PERCOSEX",
+            "first-release-date": "2024-06-14",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "a920a620-8b87-468d-a656-9e335cf8d187",
+            "title": "SI NO ES CONTIGO (REMIX)",
+            "first-release-date": "2024-10-17",
+            "primary-type": "Single",
+            "secondary-types": [
+                "Remix"
+            ]
+        },
+        {
+            "id": "af9abc4e-36d4-4adb-b430-25fb4b5008cb",
+            "title": "Chica Gal\u00e1ctica (W Sound 07)",
+            "first-release-date": "2025-11-26",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "c0151dd5-cedf-4169-bff9-66d061bd74d9",
+            "title": "Una noche en Medell\u00edn",
+            "first-release-date": "2022",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "cc91ade9-2283-41d5-af0f-e3a43766e64b",
+            "title": "Partyson",
+            "first-release-date": "2023-09-23",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "ccb46ed6-7481-4875-a94c-83bcc86a9b6d",
+            "title": "Welcome to My World",
+            "first-release-date": "2022-11-23",
+            "primary-type": "Album",
+            "secondary-types": []
+        },
+        {
+            "id": "d8c4a759-1d6f-4719-a1b3-faebc5dbc6de",
+            "title": "UNA NOCHE EN MEDELL\u00cdN (remix)",
+            "first-release-date": "2023-08-10",
+            "primary-type": "Single",
+            "secondary-types": [
+                "Remix"
+            ]
+        },
+        {
+            "id": "ef6f42b7-32a6-4e4d-b217-9c049f96c158",
+            "title": "30 Mil Pies",
+            "first-release-date": "2025-10-09",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "f0be0f0d-fab8-458c-a2c7-20084fc423b6",
+            "title": "ALCOBA",
+            "first-release-date": "2026-07-02",
+            "primary-type": "Single",
+            "secondary-types": []
+        },
+        {
+            "id": "f64aa12a-c59a-443a-a35b-3e08866f1e33",
+            "title": "NOTA",
+            "first-release-date": "2026-06-25",
+            "primary-type": "Single",
+            "secondary-types": []
+        }
+    ]
+}
