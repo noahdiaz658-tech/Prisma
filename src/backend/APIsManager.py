@@ -90,7 +90,8 @@ class MusicBrainzClient:
 
     def __init__(self):
         self.BASE_URL = "https://musicbrainz.org/ws/2"
-        self.REQUEST_HEADER = {"User-Agent": "PrismaMusic/0.1 (noahdiaz658@gmail.com)"}
+        #PrismaMusic/v0.1
+        self.REQUEST_HEADER = {"User-Agent": f"Prisma ({self.EMAIL_ADDRESS})"}
         self.ARTIST_METADATA_DIRECTORY = "../cache/temp/artist_metadata"
 
         self.artist = ""
@@ -155,8 +156,6 @@ class MusicBrainzClient:
                 }
             )
 
-
-
         with open(f"{self.ARTIST_METADATA_DIRECTORY}/{self.artist}.json", "r") as file:
             artist_metadata = json.load(file)
 
@@ -173,8 +172,9 @@ class LastFmClient:
 
     def __init__(self):
         self.API_KEY = os.getenv("LASTFM_API_KEY")
+        self.EMAIL_ADDRESS = os.getenv("EMAIL_ADDRESS")
         self.BASE_URL = "http://ws.audioscrobbler.com/2.0/"
-        self.REQUEST_HEADER = {"User-Agent": "Prisma (noahdiaz658@gmail.com)"}
+        self.REQUEST_HEADER = {"User-Agent": f"Prisma ({self.EMAIL_ADDRESS})"}
 
     def search_album(self, artist:str , album_name: str):
 
