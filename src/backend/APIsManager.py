@@ -1,4 +1,6 @@
 from time import sleep
+from dotenv import load_dotenv
+load_dotenv()
 
 import requests, json, os, time
 import requests.api
@@ -145,7 +147,7 @@ class MusicBrainzClient:
         for release in response_data["release-groups"]:
             releases_metadata.append(
                 {
-                    "id": release.get("id"),
+                    "mbid": release.get("id"),
                     "title": release.get("title"),
                     "first-release-date": release.get('first-release-date'),
                     "primary-type": release.get("primary-type"),
@@ -170,8 +172,55 @@ class MusicBrainzClient:
 class LastFmClient:
 
     def __init__(self):
-        pass
+        self.API_KEY = os.getenv("LASTFM_API_KEY")
+        self.BASE_URL = "http://ws.audioscrobbler.com/2.0/"
+        self.REQUEST_HEADER = {"User-Agent": "Prisma (noahdiaz658@gmail.com)"}
 
+    def search_album(self, artist:str , album_name: str):
+
+        response = request_helper(
+            self.BASE_URL,
+            {
+                "method": "album.getinfo",
+                "api_key": self.API_KEY,
+                "artist": artist,
+                "album": album_name,
+                "format": "json"
+            },
+            self.REQUEST_HEADER
+        )
+
+        releases_metadata = []
+        json_response = response.json()["album"]
+
+        with open(f"../cache/temp/artist_metadata/{artist}.json", "r") as file:
+            releases_metadata = json.load(file)
+
+        for index, album in enumerate(releases_metadata["albums"]):
+            if album["title"] == album_name:
+                releases_metadata["albums"][index]["playcount"] = json_response["playcount"]
+
+                # Gets largest available image
+                releases_metadata["albums"][index]["image"] = json_response["image"][len(json_response["image"]) - 1]["#text"]
+
+                json_response_tracks = json_response["tracks"]["track"]
+                releases_metadata["albums"][index]["tracks"] = []
+
+                for track_index, track in enumerate(json_response_tracks):
+                    releases_metadata["albums"][index]["tracks"].append(
+                    {
+                        "title": track["name"],
+                        "artists": track["artist"]["name"],
+                        "duration": track["duration"]
+                    }
+                    )
+
+        with open(f"../cache/temp/artist_metadata/{artist}.json", "w") as file:
+            json.dump(releases_metadata, file, indent = 4)
+
+        print(response.json())
+
+    def add_album_tags(self, artist:str, album_name: str):
 
 """
 def load_artist_mbid(artist):
@@ -180,6 +229,9 @@ def load_artist_mbid(artist):
 """
 
 
+FMClient = LastFmClient()
+FMClient.search_album("Cris MJ", "Partyson")
+"""
 Lclient = LyricsClient()
 
 MBClient = MusicBrainzClient()
@@ -194,3 +246,4 @@ if Artist_MBID:
     MBClient.get_artist(Artist_MBID)
     time.sleep(2)
     MBClient.get_artist_album(Artist_MBID)
+"""

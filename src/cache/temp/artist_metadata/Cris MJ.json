@@ -125,7 +125,96 @@
             "title": "Partyson",
             "first-release-date": "2023-09-23",
             "primary-type": "Album",
-            "secondary-types": []
+            "secondary-types": [],
+            "playcount": "5992634",
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2ca2d614e08eaf558732394dadd19e19.jpg",
+            "tracks": [
+                {
+                    "title": "Agradecido",
+                    "artists": "Cris MJ",
+                    "duration": 212
+                },
+                {
+                    "title": "Solt\u00e1ndote",
+                    "artists": "Cris MJ",
+                    "duration": 185
+                },
+                {
+                    "title": "Nos Conviene M\u00e1s",
+                    "artists": "Cris MJ&Hades66",
+                    "duration": 153
+                },
+                {
+                    "title": "La Conozco",
+                    "artists": "Cris MJ",
+                    "duration": 186
+                },
+                {
+                    "title": "Diab\u00f3lica",
+                    "artists": "Cris MJ&Dei V",
+                    "duration": 192
+                },
+                {
+                    "title": "No Ando Weando",
+                    "artists": "Cris MJ",
+                    "duration": 188
+                },
+                {
+                    "title": "Mala",
+                    "artists": "Cris MJ&Pablo Chill-E",
+                    "duration": 188
+                },
+                {
+                    "title": "Sin Enamorarse",
+                    "artists": "Cris MJ",
+                    "duration": 182
+                },
+                {
+                    "title": "M\u00eda Na' M\u00e1s",
+                    "artists": "Cris MJ&Luar La L",
+                    "duration": 185
+                },
+                {
+                    "title": "333",
+                    "artists": "Cris MJ&Yan Block",
+                    "duration": 165
+                },
+                {
+                    "title": "Daytona",
+                    "artists": "Cris MJ",
+                    "duration": 173
+                },
+                {
+                    "title": "La Noche Est\u00e1",
+                    "artists": "Cris MJ",
+                    "duration": 226
+                },
+                {
+                    "title": "Qui\u00e9n Te Parte",
+                    "artists": "Cris MJ",
+                    "duration": 173
+                },
+                {
+                    "title": "Lamborghini",
+                    "artists": "Cris MJ",
+                    "duration": 208
+                },
+                {
+                    "title": "Partyson",
+                    "artists": "Cris MJ",
+                    "duration": 198
+                },
+                {
+                    "title": "Ponte Bonita",
+                    "artists": "Cris MJ",
+                    "duration": 193
+                },
+                {
+                    "title": "Abriendo Puertas",
+                    "artists": "Cris MJ",
+                    "duration": 188
+                }
+            ]
         },
         {
             "id": "ccb46ed6-7481-4875-a94c-83bcc86a9b6d",
