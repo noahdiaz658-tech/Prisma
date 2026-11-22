@@ -1,257 +1,1294 @@
 {
     "mbid": "a89326cc-8fb3-4cdd-9fc6-69386e95cbd2",
     "artist": "Cris MJ",
-    "albums": [
+    "similar-artists": [
         {
-            "id": "06642d60-88b6-4ca6-a2c7-48c95d96e227",
-            "title": "Yo no me olvido",
-            "first-release-date": "2022-04-15",
-            "primary-type": "Single",
-            "secondary-types": []
+            "mbid": "a5d5354e-3bf2-4479-b20a-a860b81962d9",
+            "artist": "Jere Klein",
+            "match-coefficient": "1"
         },
         {
-            "id": "0f4c2b52-71c4-493e-befe-c655de40c02f",
-            "title": "Presidente",
-            "first-release-date": "2026-04-02",
-            "primary-type": "Single",
-            "secondary-types": []
+            "mbid": "04a5ed75-6c9f-4d50-87bd-9600abbe68f7",
+            "artist": "FloyyMenor",
+            "match-coefficient": "0.870579"
         },
         {
-            "id": "16d38664-f59f-4938-8d15-65594b52b1e3",
-            "title": "LAS FILTRADAS",
-            "first-release-date": "2025-12-25",
-            "primary-type": "Album",
-            "secondary-types": []
+            "mbid": "818d73de-7310-4f6a-a419-8b84d0bc46dd",
+            "artist": "Standly",
+            "match-coefficient": "0.691139"
         },
         {
-            "id": "182c7a62-8c43-4b00-a5ac-3b2750da953a",
-            "title": "Gata Only",
-            "first-release-date": "2024-02-02",
-            "primary-type": "Single",
-            "secondary-types": []
+            "mbid": "87b4a66e-b597-40a2-a1b5-07d2ef33e517",
+            "artist": "ITHAN NY",
+            "match-coefficient": "0.663519"
         },
         {
-            "id": "2c7054ed-3275-429c-8b74-94348b95c589",
-            "title": "SI NO ES CONTIGO",
-            "first-release-date": "2024-05-23",
-            "primary-type": "Single",
-            "secondary-types": []
+            "mbid": "no_mbid_from_last.fm",
+            "artist": "Pablo Chill-E",
+            "match-coefficient": "0.660493"
         },
         {
-            "id": "34c6a63a-9545-47ed-9202-55d4621f497a",
-            "title": "Apocalipsis",
-            "first-release-date": "2025-06-27",
-            "primary-type": "Album",
-            "secondary-types": []
+            "mbid": "2583835e-a6ac-4f13-9fff-97b02e50ecdf",
+            "artist": "El Jordan 23",
+            "match-coefficient": "0.588421"
         },
         {
-            "id": "356e277d-ad21-4354-8561-26ac023e900b",
-            "title": "Ll\u00e1mame beb\u00e9",
-            "first-release-date": "2022-12-24",
-            "primary-type": "Single",
-            "secondary-types": []
+            "mbid": "1149a78c-6e3f-413b-93ac-4004dc45d1f4",
+            "artist": "Julianno Sosa",
+            "match-coefficient": "0.575032"
         },
         {
-            "id": "4d0bede2-e952-4f13-b5ad-d01c48a53aaf",
-            "title": "666",
-            "first-release-date": "2026-04-16",
-            "primary-type": "Single",
-            "secondary-types": []
+            "mbid": "45e6980b-809f-4d63-96af-0eacc63d9029",
+            "artist": "Bryartz",
+            "match-coefficient": "0.419726"
         },
         {
-            "id": "51a85192-170d-423c-8019-4f448686f992",
-            "title": "GANAS REMIX",
-            "first-release-date": "2026-05-28",
-            "primary-type": "Single",
-            "secondary-types": [
-                "Remix"
-            ]
+            "mbid": "568a8085-41a4-4d93-8e2a-422dcec6f5d8",
+            "artist": "Kidd Voodoo",
+            "match-coefficient": "0.411531"
         },
         {
-            "id": "540aeaa5-28f5-4e85-bd8b-82f2eacc7f98",
-            "title": "Diab\u00f3lica",
-            "first-release-date": "2023-11-08",
-            "primary-type": "Single",
-            "secondary-types": []
+            "mbid": "87a75fc3-59e7-4598-925c-8e230bce5db9",
+            "artist": "Anuel AA",
+            "match-coefficient": "0.410976"
         },
         {
-            "id": "5ed6b6cd-89e5-4689-9db9-fcbede44ebf2",
-            "title": "Marisola (remix)",
-            "first-release-date": "2022-07-22",
-            "primary-type": "Single",
-            "secondary-types": [
-                "Remix"
-            ]
+            "mbid": "a9958f46-5b40-4d0f-9169-b1828b769f3a",
+            "artist": "Harry Nach",
+            "match-coefficient": "0.410863"
         },
         {
-            "id": "9cfb9155-0a92-4d14-827f-a0aa20889152",
-            "title": "MJ",
-            "first-release-date": "2024-09-12",
-            "primary-type": "Album",
-            "secondary-types": []
+            "mbid": "6cab2891-be30-4957-a0b3-243e2fca27c4",
+            "artist": "DrefQuila",
+            "match-coefficient": "0.405956"
         },
         {
-            "id": "a25b4170-d1b2-49fc-a5d1-254f17d806a0",
-            "title": "PERCOSEX",
-            "first-release-date": "2024-06-14",
-            "primary-type": "Single",
-            "secondary-types": []
+            "mbid": "42f29fb0-80d6-45f8-9f70-f86b4e0faea0",
+            "artist": "Young Cister",
+            "match-coefficient": "0.393051"
         },
         {
-            "id": "a920a620-8b87-468d-a656-9e335cf8d187",
-            "title": "SI NO ES CONTIGO (REMIX)",
-            "first-release-date": "2024-10-17",
-            "primary-type": "Single",
-            "secondary-types": [
-                "Remix"
-            ]
+            "mbid": "dccbcee3-327d-4579-8eb2-f613dc7a1313",
+            "artist": "Easykid",
+            "match-coefficient": "0.373413"
         },
         {
-            "id": "af9abc4e-36d4-4adb-b430-25fb4b5008cb",
-            "title": "Chica Gal\u00e1ctica (W Sound 07)",
-            "first-release-date": "2025-11-26",
-            "primary-type": "Single",
-            "secondary-types": []
+            "mbid": "89fe777e-8d33-411d-9fe9-027f67c1e8f1",
+            "artist": "Bryant Myers",
+            "match-coefficient": "0.358807"
         },
         {
-            "id": "c0151dd5-cedf-4169-bff9-66d061bd74d9",
-            "title": "Una noche en Medell\u00edn",
-            "first-release-date": "2022",
-            "primary-type": "Single",
-            "secondary-types": []
+            "mbid": "b7f5054e-c9de-49d8-b0eb-6deefb89b86b",
+            "artist": "\u00d1engo Flow",
+            "match-coefficient": "0.357227"
         },
         {
-            "id": "cc91ade9-2283-41d5-af0f-e3a43766e64b",
-            "title": "Partyson",
-            "first-release-date": "2023-09-23",
-            "primary-type": "Album",
-            "secondary-types": [],
-            "playcount": "5992634",
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2ca2d614e08eaf558732394dadd19e19.jpg",
-            "tracks": [
-                {
-                    "title": "Agradecido",
-                    "artists": "Cris MJ",
-                    "duration": 212
-                },
-                {
-                    "title": "Solt\u00e1ndote",
-                    "artists": "Cris MJ",
-                    "duration": 185
-                },
-                {
-                    "title": "Nos Conviene M\u00e1s",
-                    "artists": "Cris MJ&Hades66",
-                    "duration": 153
-                },
-                {
-                    "title": "La Conozco",
-                    "artists": "Cris MJ",
-                    "duration": 186
-                },
-                {
-                    "title": "Diab\u00f3lica",
-                    "artists": "Cris MJ&Dei V",
-                    "duration": 192
-                },
-                {
-                    "title": "No Ando Weando",
-                    "artists": "Cris MJ",
-                    "duration": 188
-                },
-                {
-                    "title": "Mala",
-                    "artists": "Cris MJ&Pablo Chill-E",
-                    "duration": 188
-                },
-                {
-                    "title": "Sin Enamorarse",
-                    "artists": "Cris MJ",
-                    "duration": 182
-                },
-                {
-                    "title": "M\u00eda Na' M\u00e1s",
-                    "artists": "Cris MJ&Luar La L",
-                    "duration": 185
-                },
-                {
-                    "title": "333",
-                    "artists": "Cris MJ&Yan Block",
-                    "duration": 165
-                },
-                {
-                    "title": "Daytona",
-                    "artists": "Cris MJ",
-                    "duration": 173
-                },
-                {
-                    "title": "La Noche Est\u00e1",
-                    "artists": "Cris MJ",
-                    "duration": 226
-                },
-                {
-                    "title": "Qui\u00e9n Te Parte",
-                    "artists": "Cris MJ",
-                    "duration": 173
-                },
-                {
-                    "title": "Lamborghini",
-                    "artists": "Cris MJ",
-                    "duration": 208
-                },
-                {
-                    "title": "Partyson",
-                    "artists": "Cris MJ",
-                    "duration": 198
-                },
-                {
-                    "title": "Ponte Bonita",
-                    "artists": "Cris MJ",
-                    "duration": 193
-                },
-                {
-                    "title": "Abriendo Puertas",
-                    "artists": "Cris MJ",
-                    "duration": 188
-                }
-            ]
+            "mbid": "d2945137-b01d-4195-9f82-64d20f8ba657",
+            "artist": "Myke Towers",
+            "match-coefficient": "0.342342"
         },
         {
-            "id": "ccb46ed6-7481-4875-a94c-83bcc86a9b6d",
-            "title": "Welcome to My World",
-            "first-release-date": "2022-11-23",
-            "primary-type": "Album",
-            "secondary-types": []
+            "mbid": "no_mbid_from_last.fm",
+            "artist": "SINAKA",
+            "match-coefficient": "0.335226"
         },
         {
-            "id": "d8c4a759-1d6f-4719-a1b3-faebc5dbc6de",
-            "title": "UNA NOCHE EN MEDELL\u00cdN (remix)",
-            "first-release-date": "2023-08-10",
-            "primary-type": "Single",
-            "secondary-types": [
-                "Remix"
-            ]
+            "mbid": "b9de03fa-04ac-4249-8481-badfd26b9190",
+            "artist": "Dei V",
+            "match-coefficient": "0.325016"
         },
         {
-            "id": "ef6f42b7-32a6-4e4d-b217-9c049f96c158",
-            "title": "30 Mil Pies",
-            "first-release-date": "2025-10-09",
-            "primary-type": "Single",
-            "secondary-types": []
+            "mbid": "no_mbid_from_last.fm",
+            "artist": "Polim\u00e1 Westcoast",
+            "match-coefficient": "0.308081"
         },
         {
-            "id": "f0be0f0d-fab8-458c-a2c7-20084fc423b6",
-            "title": "ALCOBA",
-            "first-release-date": "2026-07-02",
-            "primary-type": "Single",
-            "secondary-types": []
+            "mbid": "no_mbid_from_last.fm",
+            "artist": "Kreamly",
+            "match-coefficient": "0.304522"
         },
         {
-            "id": "f64aa12a-c59a-443a-a35b-3e08866f1e33",
-            "title": "NOTA",
-            "first-release-date": "2026-06-25",
-            "primary-type": "Single",
-            "secondary-types": []
+            "mbid": "61ee1029-4f35-43ce-83dd-2eb8d4eef85e",
+            "artist": "Omar Courtz",
+            "match-coefficient": "0.298055"
+        },
+        {
+            "mbid": "86e4ae25-f45b-4c52-904d-94c0004f907e",
+            "artist": "Brytiago",
+            "match-coefficient": "0.294402"
+        },
+        {
+            "mbid": "no_mbid_from_last.fm",
+            "artist": "El Bogueto",
+            "match-coefficient": "0.286125"
+        },
+        {
+            "mbid": "no_mbid_from_last.fm",
+            "artist": "NVSCVR",
+            "match-coefficient": "0.285709"
+        },
+        {
+            "mbid": "2b67658e-429f-425a-adf5-345b13112fc1",
+            "artist": "JHAYCO",
+            "match-coefficient": "0.273617"
+        },
+        {
+            "mbid": "279b23ca-0a7a-42b9-adfd-40e0bb2ff0a1",
+            "artist": "Martinwhite",
+            "match-coefficient": "0.257669"
+        },
+        {
+            "mbid": "no_mbid_from_last.fm",
+            "artist": "KATTEYES",
+            "match-coefficient": "0.256938"
+        },
+        {
+            "mbid": "no_mbid_from_last.fm",
+            "artist": "J Alvarez",
+            "match-coefficient": "0.255400"
+        },
+        {
+            "mbid": "539773a0-2831-419a-9cda-a71a0a7abf19",
+            "artist": "Ak4:20",
+            "match-coefficient": "0.253922"
+        }
+    ],
+    "deezer-id": 67431122,
+    "image": "https://cdn-images.dzcdn.net/images/artist/1017a7f4da6efd4417e1bbe3820ca213/500x500-000000-80-0-0.jpg",
+    "releases": {
+        "albums": [
+            {
+                "deezer-id": 874651582,
+                "deezer-genre-id": 197,
+                "title": "LAS FILTRADAS",
+                "release-data": "2025-12-25",
+                "explicit": true,
+                "type": "album",
+                "image": "https://cdn-images.dzcdn.net/images/cover/ddc501e4fdc285a8bf8d829f031d3508/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 778473001,
+                "deezer-genre-id": 122,
+                "title": "Apocalipsis",
+                "release-data": "2025-06-27",
+                "explicit": true,
+                "type": "album",
+                "image": "https://cdn-images.dzcdn.net/images/cover/7dd78fd1998e5fa8e492ad69dd119d55/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 641029021,
+                "deezer-genre-id": 197,
+                "title": "MJ",
+                "release-data": "2024-09-12",
+                "explicit": true,
+                "type": "album",
+                "image": "https://cdn-images.dzcdn.net/images/cover/e8ed1e4796e323828c6da79313f58302/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 508790091,
+                "deezer-genre-id": 197,
+                "title": "Partyson",
+                "release-data": "2023-11-09",
+                "explicit": true,
+                "type": "album",
+                "image": "https://cdn-images.dzcdn.net/images/cover/93ebd04b9d3ac70129d1e72d81bf28e3/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 485801175,
+                "deezer-genre-id": 197,
+                "title": "Welcome To My World",
+                "release-data": "2022-11-23",
+                "explicit": true,
+                "type": "album",
+                "image": "https://cdn-images.dzcdn.net/images/cover/0af1582e08473779b15f4d72b9473ab5/500x500-000000-80-0-0.jpg"
+            }
+        ],
+        "eps": [
+            {
+                "deezer-id": 468379785,
+                "deezer-genre-id": 197,
+                "title": "Welcome To My World",
+                "release-data": "2022-09-15",
+                "explicit": true,
+                "type": "ep",
+                "image": "https://cdn-images.dzcdn.net/images/cover/b9fec3883e74c411a1ee8b31c57f973f/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 314969657,
+                "deezer-genre-id": 122,
+                "title": "Por Mas Que Traten (Remix)",
+                "release-data": "2022-04-18",
+                "explicit": false,
+                "type": "ep",
+                "image": "https://cdn-images.dzcdn.net/images/cover/3299f541720a2b3e951dd64fd8f3b7f6/500x500-000000-80-0-0.jpg"
+            }
+        ],
+        "singles": [
+            {
+                "deezer-id": 1078705622,
+                "deezer-genre-id": 122,
+                "title": "No Me Suman",
+                "release-data": "2026-09-16",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/3905eaa8bd5a1b884ab647717ade9ae3/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 1018927421,
+                "deezer-genre-id": 122,
+                "title": "ALCOBA",
+                "release-data": "2026-07-02",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/34843b2988a54f026a0fddb7205a83ed/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 1009255531,
+                "deezer-genre-id": 116,
+                "title": "NOTA",
+                "release-data": "2026-06-25",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/c79038b7f47e5f04279c1de29128fd57/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 993496761,
+                "deezer-genre-id": 116,
+                "title": "GANAS REMIX",
+                "release-data": "2026-05-28",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/4fe64540c2742e1178823483cd17c072/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 958202251,
+                "deezer-genre-id": 197,
+                "title": "666",
+                "release-data": "2026-04-16",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/807b9b08a1bc859827f4bbfeff0eee39/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 952510201,
+                "deezer-genre-id": 122,
+                "title": "Presidente",
+                "release-data": "2026-04-02",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/4560cfa66cd0e7ba85a617dbdff47164/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 916807681,
+                "deezer-genre-id": 116,
+                "title": "LUNA LLENA",
+                "release-data": "2026-02-20",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/235ba805a26a9629490046b7ecc65b54/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 864912372,
+                "deezer-genre-id": 116,
+                "title": "Chica Gal\u00e1ctica (W Sound 07)",
+                "release-data": "2025-11-26",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/cf20a57b9c840e4a9b6f087629af3b23/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 833990292,
+                "deezer-genre-id": 197,
+                "title": "30 Mil Pies",
+                "release-data": "2025-10-09",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/fcae86d7e3951fde79ff15d72ceff213/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 749067091,
+                "deezer-genre-id": 197,
+                "title": "Conmigo Se Escapa",
+                "release-data": "2025-05-01",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/6f515717f40b2f2d084b850ddaeaf4c3/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 742382711,
+                "deezer-genre-id": 122,
+                "title": "Frozen",
+                "release-data": "2025-04-17",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/5aad7bd7b54aa2351c39c338ce19851e/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 739681201,
+                "deezer-genre-id": 197,
+                "title": "Party MJ",
+                "release-data": "2025-04-11",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/f32b1c8280ef460111ae6abcdc9984c6/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 740699821,
+                "deezer-genre-id": 122,
+                "title": "Minnie 2",
+                "release-data": "2025-04-10",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/4d9d464b7797b73c6d96be080666fbc1/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 728859261,
+                "deezer-genre-id": 197,
+                "title": "TOA",
+                "release-data": "2025-04-04",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/5e5c7eec6054dcacdc06395e1cfe0115/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 719628191,
+                "deezer-genre-id": 197,
+                "title": "\u00c9LITE",
+                "release-data": "2025-02-27",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/e4d4fca45a9b3764fdf78c9c8d36ac8f/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 698322771,
+                "deezer-genre-id": 197,
+                "title": "oxy",
+                "release-data": "2025-02-05",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/3550536aa08daaa357e7121fd2fa75d8/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 684860351,
+                "deezer-genre-id": 197,
+                "title": "7 Trompetas",
+                "release-data": "2024-12-19",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/2901b21001d849fd6d846618f0944a7b/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 708556111,
+                "deezer-genre-id": 122,
+                "title": "Pens\u00e1ndote",
+                "release-data": "2024-11-08",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/2644d39744498534aeefac2b8a13b91f/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 657167291,
+                "deezer-genre-id": 122,
+                "title": "SI NO ES CONTIGO (REMIX)",
+                "release-data": "2024-10-17",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/0eccf6326c8117410981abadcb1d28e9/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 617899251,
+                "deezer-genre-id": 116,
+                "title": "QUE LE DE",
+                "release-data": "2024-07-26",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/661e666a1cb04b4182b37d68669ab13c/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 613627932,
+                "deezer-genre-id": 116,
+                "title": "Tuss",
+                "release-data": "2024-07-12",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/a0d71127876c0f6dec2282ac23e93622/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 597460552,
+                "deezer-genre-id": 197,
+                "title": "Pensamos Rapido",
+                "release-data": "2024-07-11",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/eb7ea4a6518777a794281fe2720b5a07/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 602963432,
+                "deezer-genre-id": 197,
+                "title": "No Ponga Excusas",
+                "release-data": "2024-06-20",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/557bbb3c9bc7fe454dcd73eafa56a114/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 600170042,
+                "deezer-genre-id": 116,
+                "title": "PERCOSEX",
+                "release-data": "2024-06-14",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/ddcd20b22b798b488e0dac35639ef18d/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 587267062,
+                "deezer-genre-id": 197,
+                "title": "SI NO ES CONTIGO",
+                "release-data": "2024-05-23",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/0bd32c8cb02372f394ca2b602bfaf2fe/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 579783601,
+                "deezer-genre-id": 197,
+                "title": "QUICKIE",
+                "release-data": "2024-05-09",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/bb03e6cdca25c4d0ed1fc92019b0ba18/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 632039241,
+                "deezer-genre-id": 116,
+                "title": "Que Brille Sola Mami",
+                "release-data": "2024-04-13",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/fbf2d17862cdd85af035caa9b92070f3/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 568248151,
+                "deezer-genre-id": 197,
+                "title": "Que Hay Amor",
+                "release-data": "2024-04-04",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/7314a6476fb15a16031fd87fafebe075/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 539509592,
+                "deezer-genre-id": 116,
+                "title": "KE LA CASTIGUEN",
+                "release-data": "2024-02-09",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/13938416502e489c31b7b514a6e4f70e/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 540377482,
+                "deezer-genre-id": 197,
+                "title": "Gata Only",
+                "release-data": "2024-02-02",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/2b637eeb2dadc47f968313f017d2546c/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 629965441,
+                "deezer-genre-id": 116,
+                "title": "+ Paca M\u00e1s El\u00e1stico",
+                "release-data": "2023-12-07",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/d52d8fede61f359f83f8601419c10ff0/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 719278101,
+                "deezer-genre-id": 122,
+                "title": "3+1",
+                "release-data": "2023-12-07",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/a4b7285985cd0a9d5df45d6f797af275/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 518903542,
+                "deezer-genre-id": 122,
+                "title": "LOCA FARANDULERA",
+                "release-data": "2023-12-01",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/53b1d7b0b565323308e93d9997ff3018/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 508680411,
+                "deezer-genre-id": 197,
+                "title": "Diab\u00f3lica",
+                "release-data": "2023-11-08",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/3697fa16493c20f3aa1a3db2eb3241da/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 508697151,
+                "deezer-genre-id": 197,
+                "title": "Mala",
+                "release-data": "2023-11-08",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/7f68d836c7320da77de879f387339d09/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 508699671,
+                "deezer-genre-id": 197,
+                "title": "Nos Conviene M\u00e1s",
+                "release-data": "2023-11-08",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/9b86525feb8ae12cec5137ba58349392/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 509969181,
+                "deezer-genre-id": 197,
+                "title": "Mia Na' Mas",
+                "release-data": "2023-11-08",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/b2f33d294b7a9517f3ae4d292c248e91/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 508482931,
+                "deezer-genre-id": 197,
+                "title": "Abriendo Puertas",
+                "release-data": "2023-11-03",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/0bf2e86b582fb80e92f979ad1fcb7a6a/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 507277711,
+                "deezer-genre-id": 197,
+                "title": "Partyson",
+                "release-data": "2023-11-01",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/2f8fd4e49abd5eb693dfc2b62ab882d9/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 479262555,
+                "deezer-genre-id": 197,
+                "title": "Maullame",
+                "release-data": "2023-10-06",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/740ca6c8f6bbb031d525d9e36c2fb9bf/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 492292515,
+                "deezer-genre-id": 197,
+                "title": "333",
+                "release-data": "2023-09-28",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/390466e6eb73e936f7f681a543650c7c/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 466790555,
+                "deezer-genre-id": 122,
+                "title": "Nalgas Rojas",
+                "release-data": "2023-09-22",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/753a0ed48c70f852c0ec9a55d51522ae/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 485708985,
+                "deezer-genre-id": 197,
+                "title": "La Noche Est\u00e1",
+                "release-data": "2023-09-14",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/a4b0a9e5e6a64ad02f55e1119cf8028e/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 705660961,
+                "deezer-genre-id": 197,
+                "title": "Ponte de Espalda",
+                "release-data": "2023-09-09",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/9e8bfaf0bdabf68b9ac66b8436a91778/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 482733795,
+                "deezer-genre-id": 116,
+                "title": "CRIS MJ | DJ TAO Turreo Sessions #20",
+                "release-data": "2023-09-07",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/99e05ebd78a7b6d3dcbbd9262a548a46/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 474168035,
+                "deezer-genre-id": 197,
+                "title": "Ando Buscando",
+                "release-data": "2023-08-17",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/2dfcf73a3a67f3fead5790ca52524af7/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 477142345,
+                "deezer-genre-id": 197,
+                "title": "UNA NOCHE EN MEDELL\u00cdN (REMIX)",
+                "release-data": "2023-08-15",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/4e1731788b7439301942fdff302819e1/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 629999361,
+                "deezer-genre-id": 116,
+                "title": "C\u00f3mo T\u00fa Est\u00e1s",
+                "release-data": "2023-07-20",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/9ef60307f5c2cfe76919a92913f6e045/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 434093677,
+                "deezer-genre-id": 197,
+                "title": "Pol\u00e9mica",
+                "release-data": "2023-05-04",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/04d105fbcaa94f5ee8cf2ef86ad6ae15/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 921998511,
+                "deezer-genre-id": 197,
+                "title": "Adictivo",
+                "release-data": "2023-04-28",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/341d0241b52f3f4e29f564a8912bf6c2/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 421144177,
+                "deezer-genre-id": 197,
+                "title": "Su Altura",
+                "release-data": "2023-04-06",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/d48d715ddfd4da27c1f4de7acb07cb77/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 629999251,
+                "deezer-genre-id": 116,
+                "title": "Sali\u00f3 De Noche",
+                "release-data": "2023-02-17",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/231ef2d2a97e02435d1185311e837ed6/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 547402372,
+                "deezer-genre-id": 197,
+                "title": "SE TE HACE TARDE",
+                "release-data": "2023-02-14",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/64906c91dd3a3bde37f2015c0d2ec60f/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 547401002,
+                "deezer-genre-id": 197,
+                "title": "Mi Facha",
+                "release-data": "2023-01-27",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/a76b1e0198a1fac914ebeb76cc02687d/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 666622191,
+                "deezer-genre-id": 197,
+                "title": "Ll\u00e1mame Beb\u00e9",
+                "release-data": "2022-12-24",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/da770a9a39533bfb7dc230529bfec17c/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 374549517,
+                "deezer-genre-id": 122,
+                "title": "LOKOTRON REMIX",
+                "release-data": "2022-12-16",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/780a98ddd4cf5cd61e1adcff98cad6ff/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 633046091,
+                "deezer-genre-id": 116,
+                "title": "Marisola (Remix)",
+                "release-data": "2022-12-15",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/1e663e5fe5294879bf9808e4b6eb8e52/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 351203987,
+                "deezer-genre-id": 197,
+                "title": "Suburban",
+                "release-data": "2022-09-15",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/5b9879cb7e746195e4bbfb9b82ab806d/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468377175,
+                "deezer-genre-id": 197,
+                "title": "V\u00edbora",
+                "release-data": "2022-09-15",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/5e152979b17a061cf906382a5519f6ec/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 348323387,
+                "deezer-genre-id": 122,
+                "title": "La Chapa Pa Atras",
+                "release-data": "2022-08-16",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/a16518f8ea31e27a5f07e59983227584/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 332876397,
+                "deezer-genre-id": 122,
+                "title": "Ella Quiere Enrolar (Experimento 01)",
+                "release-data": "2022-08-05",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/cf070ca0a7fde5b4abeeb49f2f456ba3/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 633123961,
+                "deezer-genre-id": 116,
+                "title": "Los Malvekes",
+                "release-data": "2022-08-04",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/cee31e81fc9f75f7f5871b76feae2198/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 632039221,
+                "deezer-genre-id": 116,
+                "title": "Marisola",
+                "release-data": "2022-07-22",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/3069562fabc34076e667216099146f4e/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468352855,
+                "deezer-genre-id": 197,
+                "title": "Paz Mental",
+                "release-data": "2022-06-10",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/9e5f751d2a06a628710e31df10a58676/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 319018667,
+                "deezer-genre-id": 116,
+                "title": "Funky De Antes (feat. Ecko, Marcianeke & DJ Tao) (Remix)",
+                "release-data": "2022-05-26",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/756dbb1667040e641812f5e297029956/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468352875,
+                "deezer-genre-id": 197,
+                "title": "Empezamos de 0",
+                "release-data": "2022-05-13",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/2f3143cc162672839530a849995b3dcd/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 313599767,
+                "deezer-genre-id": 132,
+                "title": "Webcam",
+                "release-data": "2022-05-06",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/94e3ffc3ca8951860f4f81454a94614d/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 433735757,
+                "deezer-genre-id": 122,
+                "title": "Baby Doll",
+                "release-data": "2022-04-29",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/8a807b0a8a4bf46d23cccb2e34c6b7e7/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468351965,
+                "deezer-genre-id": 197,
+                "title": "Yo No Me Olvido",
+                "release-data": "2022-04-15",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/16b9e2ff527e0896182bc88841bf6ab7/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 306770267,
+                "deezer-genre-id": 122,
+                "title": "Beso de 3",
+                "release-data": "2022-04-07",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/6a3d39c3efa15d34c529a4802abb6ca6/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 304119407,
+                "deezer-genre-id": 197,
+                "title": "SEXTIME",
+                "release-data": "2022-03-31",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/8baa807ae7612e1f7113267cde909ac8/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 305318957,
+                "deezer-genre-id": 116,
+                "title": "Me Arrepent\u00ed",
+                "release-data": "2022-03-30",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/dd96e5d4987448951657409b2d32173b/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 299309082,
+                "deezer-genre-id": 197,
+                "title": "Party",
+                "release-data": "2022-03-11",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/cf6216a52914b5b0c4c6073c2e73d7cb/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 299930437,
+                "deezer-genre-id": 132,
+                "title": "A PERRIARLA",
+                "release-data": "2022-03-11",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/d848fc8965765c875bfb966e91800806/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468351975,
+                "deezer-genre-id": 197,
+                "title": "Como Te Va",
+                "release-data": "2022-02-24",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/f3fee29086ba1f71011fbed6a5320800/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 705660941,
+                "deezer-genre-id": 197,
+                "title": "Dime T\u00fa",
+                "release-data": "2022-02-04",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/5cb1f59982f419a6611c903d1a9087c8/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468350165,
+                "deezer-genre-id": 197,
+                "title": "Una Noche en Medell\u00edn",
+                "release-data": "2022-01-21",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/25a832fa05a717a58f1bfc3b6e1a8deb/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 285323672,
+                "deezer-genre-id": 197,
+                "title": "Positivo",
+                "release-data": "2022-01-06",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/05572f7b94d73b42027d56bc7f9efc18/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468371625,
+                "deezer-genre-id": 197,
+                "title": "Booty Booty",
+                "release-data": "2022-01-05",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/4a360a3f49e7bac8a188db29790549dc/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 613799152,
+                "deezer-genre-id": 197,
+                "title": "Ta' Soltera",
+                "release-data": "2021-12-04",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/a35086ad1d42886848231682a7df9496/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468372805,
+                "deezer-genre-id": 197,
+                "title": "Bichiyal",
+                "release-data": "2021-11-12",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/b858a056914a71ee471e7973262603e1/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 439570967,
+                "deezer-genre-id": 197,
+                "title": "Menean la Chapa",
+                "release-data": "2021-10-22",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/caabaa2d71251e5f3e774a97f967daab/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468372755,
+                "deezer-genre-id": 197,
+                "title": "Locura y Maldad",
+                "release-data": "2021-10-15",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/2f028b0724e774d86ed4f08c387fa87c/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468352925,
+                "deezer-genre-id": 197,
+                "title": "Como Lo So\u00f1amos",
+                "release-data": "2021-10-04",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/172a435fef27ecc2d97f777fd3a87a0a/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 252144622,
+                "deezer-genre-id": 197,
+                "title": "Me La Engancho",
+                "release-data": "2021-08-20",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/0f850adcb74cb0242f8b0ef5134db373/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 247242142,
+                "deezer-genre-id": 116,
+                "title": "Profuga",
+                "release-data": "2021-07-31",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/7642b1893affeb7ac9ef6de754d3cb87/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 977795751,
+                "deezer-genre-id": 197,
+                "title": "Sin Ti Me Siento Bien",
+                "release-data": "2021-07-20",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/3bbf8f5788223102803b0dd2421365ba/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 239024282,
+                "deezer-genre-id": 197,
+                "title": "Busy",
+                "release-data": "2021-07-08",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/1bee9f1c5296e36e5a42958b63af89eb/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468371985,
+                "deezer-genre-id": 197,
+                "title": "Te Fuiste Con Otro",
+                "release-data": "2021-06-15",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/99cba0f8aeb03342bc518af6aa0082c6/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 234251262,
+                "deezer-genre-id": 197,
+                "title": "Tu Te Fuiste",
+                "release-data": "2021-06-11",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/a8ffedcb982c88ecda7fa8d7e312580b/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468351375,
+                "deezer-genre-id": 197,
+                "title": "Si Ma\u00f1ana Caigo Preso",
+                "release-data": "2021-05-19",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/6ba5f18cfe590b73ac703d537aa9b1c9/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 719278691,
+                "deezer-genre-id": 122,
+                "title": "Tussi Code Mari",
+                "release-data": "2021-04-05",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/9957bec44096393ba3d55e70b7d35364/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 592132282,
+                "deezer-genre-id": 116,
+                "title": "Toy Con la Bendici\u00f3n",
+                "release-data": "2021-03-03",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/3252c6d89224e67a3c86cad009cf8f9f/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468350495,
+                "deezer-genre-id": 197,
+                "title": "Como Tu Ninguna",
+                "release-data": "2021-02-01",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/87f342cc971f796b30cd79b9604b3bc9/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468376815,
+                "deezer-genre-id": 197,
+                "title": "Venimos de la Calle (Remix)",
+                "release-data": "2021-02-01",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/5f6c41f4a044d55e89cd2bf280a5d536/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 200036112,
+                "deezer-genre-id": 197,
+                "title": "Huellas (Remix)",
+                "release-data": "2021-01-22",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/f09807e6316d50292b3ba07b69a6c1e8/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 198210762,
+                "deezer-genre-id": 197,
+                "title": "Vamos pa' la disco",
+                "release-data": "2021-01-08",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/fc8f0cc5b0284672e58d26d8c030e452/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468376855,
+                "deezer-genre-id": 197,
+                "title": "Andamos Bendecidos",
+                "release-data": "2020-12-28",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/ace8008e2749beb30da20d166034f0b4/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468377065,
+                "deezer-genre-id": 197,
+                "title": "En la Calle Dicen",
+                "release-data": "2020-11-06",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/e7b8f095fff77f5b651f62e79a97c53d/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468371345,
+                "deezer-genre-id": 197,
+                "title": "Que Viva el Money",
+                "release-data": "2020-10-19",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/39360d7f2b6381d5a48856c35fa53e52/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 384180667,
+                "deezer-genre-id": 197,
+                "title": "Desacata",
+                "release-data": "2020-10-09",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/d46bb3e197d3be9f3c3e7f921d32b999/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468350695,
+                "deezer-genre-id": 197,
+                "title": "20/20",
+                "release-data": "2020-09-19",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/65a4d7b1b9ec244435a61e65c1f950ca/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468352895,
+                "deezer-genre-id": 197,
+                "title": "Nada Fue Regalao",
+                "release-data": "2020-09-19",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/c8af630871cb0f0c6d0df1f42dc7ef71/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 384180387,
+                "deezer-genre-id": 197,
+                "title": "Venimos De La Calle",
+                "release-data": "2020-07-30",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/f7dcca4ab709561f50891a8b0617323c/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468350155,
+                "deezer-genre-id": 197,
+                "title": "Somos Como El Chapo",
+                "release-data": "2020-04-21",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/438687c6f7695e38b93af147f58a72ce/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 468352915,
+                "deezer-genre-id": 197,
+                "title": "Soy un Bandido",
+                "release-data": "2020-02-06",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/94237244129812c8ced4169e5354dafb/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 100002342,
+                "deezer-genre-id": 116,
+                "title": "De Negro Enmascarado",
+                "release-data": "2019-06-22",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/d827622c803f0332533c40f416255d36/500x500-000000-80-0-0.jpg"
+            }
+        ]
+    },
+    "deezer-similar-artists": [
+        {
+            "deezer-id": 75429362,
+            "artist": "Standly",
+            "image": "https://cdn-images.dzcdn.net/images/artist/6a1be04427580205240068ec783fd5ab/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 112586192,
+            "artist": "Jere Klein",
+            "image": "https://cdn-images.dzcdn.net/images/artist/b56716ec3c306f0c84bd1689434f258d/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 1208904,
+            "artist": "Lucky Brown",
+            "image": "https://cdn-images.dzcdn.net/images/artist/b15ba9c3c49e5d70b999a12998ddd33e/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 73154992,
+            "artist": "El Jordan 23",
+            "image": "https://cdn-images.dzcdn.net/images/artist/005b6353505bf4422a389615269432f2/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 145727252,
+            "artist": "Tobal Mj",
+            "image": "https://cdn-images.dzcdn.net/images/artist/883f96ac8fb842eee53dbeeb54092f7f/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 98166502,
+            "artist": "Pailita",
+            "image": "https://cdn-images.dzcdn.net/images/artist/195038b6319a86551a591ccd6c8dcae3/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 82043442,
+            "artist": "ITHAN NY",
+            "image": "https://cdn-images.dzcdn.net/images/artist/a2f634e6b4fc12960d11dbbc683a0311/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 193146897,
+            "artist": "FloyyMenor",
+            "image": "https://cdn-images.dzcdn.net/images/artist/47307584c3a7f188f35f57c4e5072c23/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 49704682,
+            "artist": "Julianno Sosa",
+            "image": "https://cdn-images.dzcdn.net/images/artist/6ad862e530ef1c2f1f874244a49ea502/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 67291902,
+            "artist": "Kail BRL",
+            "image": "https://cdn-images.dzcdn.net/images/artist/341d0241b52f3f4e29f564a8912bf6c2/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 101049132,
+            "artist": "Sayian Jimmy",
+            "image": "https://cdn-images.dzcdn.net/images/artist/77a610fe809b0c8a5fa49795f01866a3/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 68477462,
+            "artist": "King Savagge",
+            "image": "https://cdn-images.dzcdn.net/images/artist/94ef673dc072c2785717e746dffcd3f9/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 9945206,
+            "artist": "Bryant Myers",
+            "image": "https://cdn-images.dzcdn.net/images/artist/b6a774c46f158cf8f03c45a8f32c220b/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 50936472,
+            "artist": "Ak4:20",
+            "image": "https://cdn-images.dzcdn.net/images/artist/539e3bbe1660c290f6707c1699d11236/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 12029862,
+            "artist": "Myke Towers",
+            "image": "https://cdn-images.dzcdn.net/images/artist/d3a7418b4e44bf8ee3ae268067a86f09/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 7961888,
+            "artist": "Anuel AA",
+            "image": "https://cdn-images.dzcdn.net/images/artist/d128822eb60817b362b9d6e8c696e933/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 12062620,
+            "artist": "Fran C",
+            "image": "https://cdn-images.dzcdn.net/images/artist/63a4307b2ab12356e81323ab8fbd143d/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 13849327,
+            "artist": "Polima WestCoast",
+            "image": "https://cdn-images.dzcdn.net/images/artist/383390d334c26fa5de645ab7f69df460/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 14534981,
+            "artist": "Omar Courtz",
+            "image": "https://cdn-images.dzcdn.net/images/artist/470ba2a8d9769b1a273463bcf2f7c2ee/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 11554743,
+            "artist": "Pablo Chill-E",
+            "image": "https://cdn-images.dzcdn.net/images/artist/2901d55eefc069f21987cb0f6ddf498f/500x500-000000-80-0-0.jpg"
         }
     ]
 }
