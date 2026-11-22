@@ -1,10 +1,13 @@
 from mutagen.easyid3 import EasyID3
 from pathlib import Path
-import json, os
+import json, os, re
 from libraryBuilder import LibraryBuilder
 
-SONGS_DIRECTORY = r"../cache/songs"
+SONGS_DIRECTORY = r"../cache/media/songs"
 LIBRARY_FILE = r"../cache/temp/Temp_Library.json"
+
+def sanitize_filename(name:str):
+    return re.sub(r'[<>:"/\\|?*]', "_", name)
 
 class MetadataExtractor:
 
@@ -39,7 +42,9 @@ class MetadataExtractor:
                 if key == keys[index]:
                     self.song_metadata[key] = song_audio.get(key, f"Couldn't find {key[0]}")[0]
 
-        with open(f"../cache/temp/metadata/{self.song_metadata['title']}_Metadata.json", "w") as file:
+
+
+        with open(rf"../cache/temp/song_metadata/{sanitize_filename(self.song_metadata['title'])}_Metadata.json", "w") as file:
             json.dump(self.song_metadata, file, indent = 4)
 
     def get_library_metadata(self, library_path:str):

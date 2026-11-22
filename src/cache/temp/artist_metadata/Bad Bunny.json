@@ -1,40 +1,916 @@
 {
     "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
     "artist": "Bad Bunny",
-    "deezer-id": 276237911,
-    "image": "https://cdn-images.dzcdn.net/images/artist/9867d5112c6714c935a86b98b4dd288c/500x500-000000-80-0-0.jpg",
+    "deezer-id": 10583405,
+    "image": "https://cdn-images.dzcdn.net/images/artist/044a3f315b041864887a8dd8709e6926/500x500-000000-80-0-0.jpg",
     "releases": {
-        "albums": [],
+        "albums": [
+            {
+                "deezer-id": 693008911,
+                "deezer-genre-id": 197,
+                "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
+                "release-data": "2025-01-05",
+                "explicit": true,
+                "type": "album",
+                "image": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 499463651,
+                "deezer-genre-id": 197,
+                "title": "nadie sabe lo que va a pasar ma\u00f1ana",
+                "release-data": "2023-10-13",
+                "explicit": true,
+                "type": "album",
+                "image": "https://cdn-images.dzcdn.net/images/cover/f840891b70f6e240b8ecaec49346bd6a/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 316164367,
+                "deezer-genre-id": 197,
+                "title": "Un Verano Sin Ti",
+                "release-data": "2022-05-06",
+                "explicit": true,
+                "type": "album",
+                "image": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 188972392,
+                "deezer-genre-id": 197,
+                "title": "EL \u00daLTIMO TOUR DEL MUNDO",
+                "release-data": "2020-11-27",
+                "explicit": true,
+                "type": "album",
+                "image": "https://cdn-images.dzcdn.net/images/cover/6ea80078f0df08737a7471f3c4cf2afa/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 147415382,
+                "deezer-genre-id": 197,
+                "title": "LAS QUE NO IBAN A SALIR",
+                "release-data": "2020-05-10",
+                "explicit": true,
+                "type": "album",
+                "image": "https://cdn-images.dzcdn.net/images/cover/057ed894b5e2a6811faa5032254ca311/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 133878352,
+                "deezer-genre-id": 122,
+                "title": "YHLQMDLG",
+                "release-data": "2020-02-29",
+                "explicit": true,
+                "type": "album",
+                "image": "https://cdn-images.dzcdn.net/images/cover/0a6f32569d4785c5ef82f581086f4302/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101490842,
+                "deezer-genre-id": 116,
+                "title": "OASIS",
+                "release-data": "2019-06-28",
+                "explicit": false,
+                "type": "album",
+                "image": "https://cdn-images.dzcdn.net/images/cover/ef1cb84fc7b70a390d80af20768cf065/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 82541262,
+                "deezer-genre-id": 122,
+                "title": "X 100PRE",
+                "release-data": "2018-12-23",
+                "explicit": true,
+                "type": "album",
+                "image": "https://cdn-images.dzcdn.net/images/cover/72213221ed4529431857d42f6be61d56/500x500-000000-80-0-0.jpg"
+            }
+        ],
         "eps": [],
         "singles": [
             {
-                "deezer-id": 1100213332,
-                "deezer-genre-id": 165,
-                "title": "LOYAL (feat. Drake and Bad Bunny) [Remix]",
-                "release-data": "2020-02-07",
+                "deezer-id": 787225071,
+                "deezer-genre-id": 197,
+                "title": "ALAMBRE P\u00faA",
+                "release-data": "2025-07-14",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/556b85e3d9f7132ccd6df4209712fb8a/500x500-000000-80-0-0.jpg"
+                "image": "https://cdn-images.dzcdn.net/images/cover/0498a6026b15625dd0c071958eb69722/500x500-000000-80-0-0.jpg"
             },
             {
-                "deezer-id": 1100212712,
+                "deezer-id": 689012671,
                 "deezer-genre-id": 197,
-                "title": "MIA (feat. Drake)",
-                "release-data": "2018-10-11",
-                "explicit": true,
-                "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/9867d5112c6714c935a86b98b4dd288c/500x500-000000-80-0-0.jpg"
-            },
-            {
-                "deezer-id": 749435391,
-                "deezer-genre-id": 197,
-                "title": "Amantes de una Noche",
-                "release-data": "2018-01-12",
+                "title": "PIToRRO DE COCO",
+                "release-data": "2024-12-26",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/68c77b85876a1564a0addf80fa184a09/500x500-000000-80-0-0.jpg"
+                "image": "https://cdn-images.dzcdn.net/images/cover/0b5869a5a596acffc1f1993526a7f546/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 680022301,
+                "deezer-genre-id": 197,
+                "title": "EL CL\u00faB",
+                "release-data": "2024-12-05",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/807a7d6b5d12133ac93cbe3acc65ea44/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 645248391,
+                "deezer-genre-id": 197,
+                "title": "Una Velita",
+                "release-data": "2024-09-19",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/9db54ecb63f5905358205ee2b4bb2247/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 575521451,
+                "deezer-genre-id": 113,
+                "title": "ADIVINO",
+                "release-data": "2024-04-25",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/7d4bfd96b8744fc8ca9b475c81254418/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 492712391,
+                "deezer-genre-id": 197,
+                "title": "UN PREVIEW",
+                "release-data": "2023-09-25",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/2ea7d5529f511baf13e963dce21fc385/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 466779565,
+                "deezer-genre-id": 116,
+                "title": "K-POP",
+                "release-data": "2023-07-21",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/49dd2965ab5ecaeb65061bc21d17075b/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 466779585,
+                "deezer-genre-id": 116,
+                "title": "K-POP",
+                "release-data": "2023-07-19",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/ce47a0c05d2fadd557dc0ba2ccdbf46f/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 442984025,
+                "deezer-genre-id": 197,
+                "title": "WHERE SHE GOES",
+                "release-data": "2023-05-18",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/70b2fbb08f3b42fcbcd53039b7415d00/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 430985247,
+                "deezer-genre-id": 71,
+                "title": "un x100to",
+                "release-data": "2023-04-17",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/8d2a9be13d164862ccb9a10ade01b0cf/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 440112157,
+                "deezer-genre-id": -1,
+                "title": "Demonia Baila",
+                "release-data": "2023-04-14",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/5fdda2f04cd71fa142ab7186cb6577aa/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 388271527,
+                "deezer-genre-id": 122,
+                "title": "Gato de Noche",
+                "release-data": "2022-12-22",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/7db2ad9c1b84dff597f4c5dc280f9abc/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 381686327,
+                "deezer-genre-id": 197,
+                "title": "La Jumpa",
+                "release-data": "2022-11-30",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/a7e2ae00511098f427217faebb5352f9/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 260050292,
+                "deezer-genre-id": 116,
+                "title": "Lo Siento BB:/",
+                "release-data": "2021-10-05",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/5261151d57457f99099b503e6c56aa0d/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 248672432,
+                "deezer-genre-id": 122,
+                "title": "Volv\u00ed",
+                "release-data": "2021-08-03",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/9d8148184ac84779f685301fa9086204/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 242452202,
+                "deezer-genre-id": 197,
+                "title": "Volando (Remix)",
+                "release-data": "2021-07-08",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/b73f1ec1b7493093ee6fb3cd39b47096/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 241712262,
+                "deezer-genre-id": 197,
+                "title": "De Museo",
+                "release-data": "2021-07-06",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/9a41e43a2beed97bf10b80ace6038571/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 239177282,
+                "deezer-genre-id": 122,
+                "title": "AM Remix",
+                "release-data": "2021-06-24",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/05c1637e5998e3bc68c79b9b6e83da5d/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 234248692,
+                "deezer-genre-id": 122,
+                "title": "Yonaguni",
+                "release-data": "2021-06-04",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/3aa544b9653b10aedcf7eb41d61b22df/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 233268162,
+                "deezer-genre-id": 197,
+                "title": "100 MILLONES",
+                "release-data": "2021-05-28",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/a5761fc39a3b98254bb01692e0f9e45a/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 182383222,
+                "deezer-genre-id": 197,
+                "title": "D\u00c1KITI",
+                "release-data": "2020-10-30",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/aa6aa7ac356ad9d6c578cccd1a62c394/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 179646862,
+                "deezer-genre-id": 122,
+                "title": "Yo Perreo Sola (Remix)",
+                "release-data": "2020-10-14",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/521f3a5d003c08fac544866600e012e4/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 161704302,
+                "deezer-genre-id": 116,
+                "title": "UN DIA (ONE DAY)",
+                "release-data": "2020-07-24",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/6d77b90fa3d27afa7056300ff0d8511d/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 147337372,
+                "deezer-genre-id": 116,
+                "title": "C\u00d3MO SE SIENTE (Remix)",
+                "release-data": "2020-05-10",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/ead2746dbc0fa156cdc7eca243f594fc/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 131378112,
+                "deezer-genre-id": 122,
+                "title": "Ignorantes",
+                "release-data": "2020-02-14",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/ba3ce011358de2c69afe354f1974870b/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 119483832,
+                "deezer-genre-id": 122,
+                "title": "Vete",
+                "release-data": "2019-11-21",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/48bc4e33a21c660886d70160c41e53aa/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 118517902,
+                "deezer-genre-id": 132,
+                "title": "C\u00e1ntalo",
+                "release-data": "2019-11-12",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/92e577e20c02f0b3ad1e7f6426765fd9/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 108063952,
+                "deezer-genre-id": 197,
+                "title": "Subimos de Rango",
+                "release-data": "2019-08-21",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/f8b27a6b37920f78dd325809d86cdae1/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 106592552,
+                "deezer-genre-id": 197,
+                "title": "Kemba Walker",
+                "release-data": "2019-08-06",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/08dca874de41a45a61fab5d786be9f34/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 103185862,
+                "deezer-genre-id": 116,
+                "title": "Bellacoso",
+                "release-data": "2019-07-26",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/16ff31b6c3dcf620accd249dd3ca716e/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 100064472,
+                "deezer-genre-id": 197,
+                "title": "Estamos Arriba",
+                "release-data": "2019-06-14",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/b60b8334acaf2d1b300cfc1cb9f5c82b/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 98236492,
+                "deezer-genre-id": 122,
+                "title": "Callaita",
+                "release-data": "2019-05-31",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/53812cc43e108be37113c41a0ebdafaf/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 368481037,
+                "deezer-genre-id": 116,
+                "title": "No Me Conoce (Remix)",
+                "release-data": "2022-10-21",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/5129e4ce3a2e159da434c857aaa54157/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 81917882,
+                "deezer-genre-id": 197,
+                "title": "Solo de Mi",
+                "release-data": "2018-12-14",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/5513af87b6b63b18235eedf1821754d5/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 78116932,
+                "deezer-genre-id": 122,
+                "title": "Te Guste",
+                "release-data": "2018-11-09",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/a25cc06ba3dab64a0ce50c2130cfd8a2/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 74078712,
+                "deezer-genre-id": 116,
+                "title": "Est\u00e1 Rico",
+                "release-data": "2018-09-28",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/3d74755f9d696ed6a402debf90212ebd/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 71683852,
+                "deezer-genre-id": 116,
+                "title": "Como Soy",
+                "release-data": "2018-08-30",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/d989d2a6f5e5316df3f6d7339d8aee77/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101849222,
+                "deezer-genre-id": 197,
+                "title": "Vamos Pa' la Calle",
+                "release-data": "2018-08-21",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/29cea34b0439db68dc662ac5a43a86fa/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101842632,
+                "deezer-genre-id": 197,
+                "title": "\u00bfCual Es Tu Plan?",
+                "release-data": "2018-08-17",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/796f8b999ae5cf331966780be54ddf82/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 69631502,
+                "deezer-genre-id": 116,
+                "title": "Satisfacci\u00f3n",
+                "release-data": "2018-08-03",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/e9d9cb31f0a9fae78b07fbadf893f844/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 66222352,
+                "deezer-genre-id": 113,
+                "title": "I Like It (Dillon Francis Remix)",
+                "release-data": "2018-06-22",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/b92d9250a67e968a11777677e2287815/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 60981032,
+                "deezer-genre-id": 197,
+                "title": "Expl\u00edcale (feat. Cosculluela & Brytiago)",
+                "release-data": "2018-04-13",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/d16d0d9461fd1ddaaffae686c3fae838/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 59264662,
+                "deezer-genre-id": 116,
+                "title": "Dime",
+                "release-data": "2018-03-23",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/e642eee28b616db7574e34a5422a7180/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101845742,
+                "deezer-genre-id": 197,
+                "title": "Loca Remix",
+                "release-data": "2018-03-16",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/ddddb1b02fb6b6fb26f580289e21d9b3/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101849212,
+                "deezer-genre-id": 197,
+                "title": "Dime Si Te Acuerdas",
+                "release-data": "2018-02-22",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/0552b07732060666758112882374208f/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101849292,
+                "deezer-genre-id": 197,
+                "title": "Amorfoda",
+                "release-data": "2018-02-15",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/54eafec99c1efef76cf818b16266fb46/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 56552222,
+                "deezer-genre-id": 116,
+                "title": "Fantas\u00eda",
+                "release-data": "2018-02-09",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/8e420de8eb1af2d81d76f7bc831bc215/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 56006372,
+                "deezer-genre-id": 116,
+                "title": "El Combo Me Llama 2",
+                "release-data": "2018-01-29",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/c2f0d6eb06324b496e237bd5ca967a93/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 53991772,
+                "deezer-genre-id": 116,
+                "title": "Krippy Kush (feat. Travis Scott & Rvssian)",
+                "release-data": "2017-12-25",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/76b1f9d3d49a94447dd4fb611e536070/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101851792,
+                "deezer-genre-id": 197,
+                "title": "Chambea",
+                "release-data": "2017-12-01",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/70861577fd04cdd9e12bac46d03ead9d/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 52060742,
+                "deezer-genre-id": 116,
+                "title": "Krippy Kush (feat. 21 Savage & Rvssian)",
+                "release-data": "2017-11-21",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/5e0ed90d4fc82eaeb36517fff9d8479b/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101845472,
+                "deezer-genre-id": 197,
+                "title": "Tu No Metes Cabra Remix",
+                "release-data": "2017-10-25",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/8cd4615647a2139c35bfad7c5b2b9ffb/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 49435812,
+                "deezer-genre-id": 116,
+                "title": "Ahora Me Llama (Remix)",
+                "release-data": "2017-10-06",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/3bd330095569794d4c4c08d5595449ff/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 48887942,
+                "deezer-genre-id": 116,
+                "title": "Vuelve",
+                "release-data": "2017-09-29",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/f0f0fd940fa39155682f81a83096a7f3/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 47631532,
+                "deezer-genre-id": 116,
+                "title": "Mayores",
+                "release-data": "2017-09-22",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/9a7a793819830a1aaf287ff9e87d984f/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101842712,
+                "deezer-genre-id": 197,
+                "title": "Lean",
+                "release-data": "2017-08-23",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/8fc8c8b159f1a48d705611a3d5e37df1/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 45561621,
+                "deezer-genre-id": 116,
+                "title": "B\u00e1ilame (Remix)",
+                "release-data": "2017-07-31",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/e2e9c10ce890f1d2a2a76a673e509f25/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 87564892,
+                "deezer-genre-id": 197,
+                "title": "Panamera (Remix)",
+                "release-data": "2017-07-28",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/e931a7a5cf948fdd221c3578a0eff67d/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 44806801,
+                "deezer-genre-id": 116,
+                "title": "Me Llueven (Extenden Version)",
+                "release-data": "2017-07-18",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/faabe38f55f36e987e64fd439732e77b/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 44432801,
+                "deezer-genre-id": 116,
+                "title": "Mayores",
+                "release-data": "2017-07-14",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/b6d13738038b285630370f5be059380f/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101848802,
+                "deezer-genre-id": 197,
+                "title": "Tu No Metes Cabra",
+                "release-data": "2017-07-06",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/f162e91299f250457214029a79d22aa1/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 372888277,
+                "deezer-genre-id": 122,
+                "title": "Netflixxx",
+                "release-data": "2017-06-29",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/6cff22388f6c431f4e096cccd7bb946e/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 43779371,
+                "deezer-genre-id": 116,
+                "title": "Give It Up",
+                "release-data": "2017-06-28",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/8fdd2eac3d2e92d177014cb66be35e64/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101847042,
+                "deezer-genre-id": 197,
+                "title": "Soy Peor Remix",
+                "release-data": "2017-06-22",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/1764929691ccc7815919625958994414/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 75349412,
+                "deezer-genre-id": 197,
+                "title": "Un Ratito Mas",
+                "release-data": "2017-06-05",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/431d89462fd86b562242aad3cf1aa137/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 42102241,
+                "deezer-genre-id": 116,
+                "title": "Ahora Me Llama",
+                "release-data": "2017-05-26",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/301fad8fcbd3c9caa16891a71a9e1460/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 41657601,
+                "deezer-genre-id": 122,
+                "title": "Blockia",
+                "release-data": "2017-05-19",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/20907e570304d48ccfd30b4f4046fb9e/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 39764501,
+                "deezer-genre-id": 122,
+                "title": "Me Mata",
+                "release-data": "2017-04-11",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/baa429f4fd827c47fc3d7cbc28e06711/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 954110831,
+                "deezer-genre-id": 116,
+                "title": "Trepate",
+                "release-data": "2017-04-07",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/7a4ee27cfb492dc03d82bc103407f6a8/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 883713242,
+                "deezer-genre-id": 122,
+                "title": "Tranquilo",
+                "release-data": "2017-03-23",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/cdc19406879c6e4aef911cfa1567acda/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 15602614,
+                "deezer-genre-id": 197,
+                "title": "No Te Hagas",
+                "release-data": "2017-03-11",
+                "explicit": false,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/f14981ae0324a9587e8a5d31570c379c/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 15556312,
+                "deezer-genre-id": 116,
+                "title": "Me Llueven 3.0",
+                "release-data": "2017-03-10",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/01eff66e7a400e4614c1f1c02395b3ca/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 15477764,
+                "deezer-genre-id": 116,
+                "title": "Me Llueven 2",
+                "release-data": "2017-03-02",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/79b6cebc0fa45ea51fa986de6d4e8c99/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 60922202,
+                "deezer-genre-id": -1,
+                "title": "Crecia",
+                "release-data": "2017-01-27",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/aeb72dc1e988bfd447a906c9344dcba1/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101844132,
+                "deezer-genre-id": 197,
+                "title": "Pa Ti",
+                "release-data": "2017-01-02",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/0533b1492192143fe9de29f00bf0cd66/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 309682917,
+                "deezer-genre-id": 116,
+                "title": "Caile",
+                "release-data": "2016-12-25",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/ab112893c118ad5345a55887250eba7c/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101849362,
+                "deezer-genre-id": 197,
+                "title": "Soy Peor",
+                "release-data": "2016-12-08",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/8ed494a435059e686fa8fee986f38036/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 14502804,
+                "deezer-genre-id": 197,
+                "title": "Me Llamas",
+                "release-data": "2016-11-09",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/8ac11f0266ef2463b9d874a8ff265c73/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 14191218,
+                "deezer-genre-id": 197,
+                "title": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
+                "release-data": "2016-09-30",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/c63263ab8340672144e738b20f9e9411/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101842542,
+                "deezer-genre-id": 197,
+                "title": "Diles",
+                "release-data": "2016-08-26",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/bbaf1244f46c20276b04a95ccb79f21b/500x500-000000-80-0-0.jpg"
+            },
+            {
+                "deezer-id": 101846932,
+                "deezer-genre-id": 197,
+                "title": "Otra Vez",
+                "release-data": "2016-07-29",
+                "explicit": true,
+                "type": "single",
+                "image": "https://cdn-images.dzcdn.net/images/cover/30ee84df80ab60f360370dec9feb22a8/500x500-000000-80-0-0.jpg"
             }
         ]
     },
-    "deezer-similar-artists": []
+    "deezer-similar-artists": [
+        {
+            "deezer-id": 11289472,
+            "artist": "Rauw Alejandro",
+            "image": "https://cdn-images.dzcdn.net/images/artist/0e7b2b93b91789a054bc3f08bb3df3a8/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 105047672,
+            "artist": "JHAYCO",
+            "image": "https://cdn-images.dzcdn.net/images/artist/1a0fe1045c59bee3cc8eb2f04d01840a/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 12029862,
+            "artist": "Myke Towers",
+            "image": "https://cdn-images.dzcdn.net/images/artist/d3a7418b4e44bf8ee3ae268067a86f09/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 5536564,
+            "artist": "Arcangel",
+            "image": "https://cdn-images.dzcdn.net/images/artist/100cfefb7a2040b4db01f90fbf969392/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 4649104,
+            "artist": "Tainy",
+            "image": "https://cdn-images.dzcdn.net/images/artist/c5cbc4ec49bb2e32c6419f471829e595/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 4860761,
+            "artist": "J Balvin",
+            "image": "https://cdn-images.dzcdn.net/images/artist/325eaa46bc25052d0e3d549d60cc8225/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 7961888,
+            "artist": "Anuel AA",
+            "image": "https://cdn-images.dzcdn.net/images/artist/d128822eb60817b362b9d6e8c696e933/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 4937383,
+            "artist": "Ozuna",
+            "image": "https://cdn-images.dzcdn.net/images/artist/df2030b9e796f55f58d2c4b68aecb18f/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 4485154,
+            "artist": "Alex Rose",
+            "image": "https://cdn-images.dzcdn.net/images/artist/f75c107c4dc21e1fa0d9d80f0692a1ae/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 3922661,
+            "artist": "Mora",
+            "image": "https://cdn-images.dzcdn.net/images/artist/f44bb8e98463bc41d195c63c43768701/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 5844239,
+            "artist": "Darell",
+            "image": "https://cdn-images.dzcdn.net/images/artist/a671a80b546dc38bf2049d8ba44421a7/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 517429,
+            "artist": "Yandel",
+            "image": "https://cdn-images.dzcdn.net/images/artist/1d6fdd7f4dfd5ca9fdf057f86bd9ef08/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 1166311,
+            "artist": "Feid",
+            "image": "https://cdn-images.dzcdn.net/images/artist/e629c93e03b3c225d8d52a42bae71537/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 8945638,
+            "artist": "Nio Garcia",
+            "image": "https://cdn-images.dzcdn.net/images/artist/bc4eefd050805654363bff121624333f/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 1424602,
+            "artist": "Maluma",
+            "image": "https://cdn-images.dzcdn.net/images/artist/69defce1be19bb2abf80cb7b1d936cdc/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 7511588,
+            "artist": "Brytiago",
+            "image": "https://cdn-images.dzcdn.net/images/artist/45c4e0e864497c31e9e6334749a3a9b9/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 614223,
+            "artist": "Farruko",
+            "image": "https://cdn-images.dzcdn.net/images/artist/c93e2234f65ba85d2bce80f82f3ffdc6/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 5297021,
+            "artist": "KAROL G",
+            "image": "https://cdn-images.dzcdn.net/images/artist/5b0aab23f8d2856951a92f3a9faf70e3/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 15691,
+            "artist": "Nicky Jam",
+            "image": "https://cdn-images.dzcdn.net/images/artist/b1fb6dc2c446495917b88a1c63b4a0e3/500x500-000000-80-0-0.jpg"
+        },
+        {
+            "deezer-id": 3839,
+            "artist": "Daddy Yankee",
+            "image": "https://cdn-images.dzcdn.net/images/artist/a4f77d40d68cf544e74883b2bd904fce/500x500-000000-80-0-0.jpg"
+        }
+    ]
 }
