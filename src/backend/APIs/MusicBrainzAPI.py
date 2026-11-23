@@ -30,8 +30,7 @@ class MusicBrainzClient:
 
         artist_metadata = {
                 "mbid": MBID,
-                "artist": self.artist,
-                "albums": []
+                "artist": self.artist
         }
 
         with open(f"{self.ARTIST_METADATA_DIRECTORY}/{artist}.json", "w") as file:

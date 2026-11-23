@@ -1290,5 +1290,6 @@
             "artist": "Pablo Chill-E",
             "image": "https://cdn-images.dzcdn.net/images/artist/2901d55eefc069f21987cb0f6ddf498f/500x500-000000-80-0-0.jpg"
         }
-    ]
+    ],
+    "no-audiodb-metadata": true
 }

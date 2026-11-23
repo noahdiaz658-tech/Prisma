@@ -26,7 +26,8 @@ class LastFmClient:
         )
 
         releases_metadata = []
-        json_response = response.json()["album"]
+        json_response = helpers.safe_json(response)
+        json_response = json_response["album"]
 
         # Loads artist metadata
         with open(f"../cache/temp/artist_metadata/{artist}.json", "r") as file:
@@ -83,7 +84,8 @@ class LastFmClient:
         if not "error" in response.json():
 
             # Variable name helper
-            json_response = response.json()["toptags"]
+            json_response = helpers.safe_json(response)
+            json_response = json_response["toptags"]
 
             # Checks if the tag list is empty
             if not json_response["tag"] == []:
@@ -142,7 +144,8 @@ class LastFmClient:
         print(response.json())
 
         if not "error" in response.json():
-            json_response = response.json()["similarartists"]["artist"]
+            json_response = helpers.safe_json(response)
+            json_response = json_response["similarartists"]["artist"]
 
             with open(f"{self.METADATA_DIR}/{artist}.json", "r") as file:
                 artist_metadata = json.load(file)
@@ -184,7 +187,8 @@ class LastFmClient:
             self.REQUEST_HEADER
         )
 
-        json_response = response.json()["topalbums"]["album"]
+        json_response = helpers.safe_json(response)
+        json_response = json_response()["topalbums"]["album"]
 
         with open("test.json", "r") as file:
             data = json.load(file)

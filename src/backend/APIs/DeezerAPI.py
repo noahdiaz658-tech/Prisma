@@ -1,4 +1,4 @@
-import json
+import json, time
 import src.backend.helpers as helpers
 
 class DeezerClient:
@@ -30,7 +30,8 @@ class DeezerClient:
         # Gets artist with most fans to avoid false search result
         corrected_artist_index = next(iter(possible_artists))
 
-        json_response = response.json()["data"][corrected_artist_index]
+        json_response = helpers.safe_json(response)
+        json_response = json_response["data"][corrected_artist_index]
 
         with open(f"{self.ARTIST_METADATA_DIRECTORY}/{artist}.json", "r") as file:
             artist_metadata = json.load(file)
@@ -39,7 +40,9 @@ class DeezerClient:
             artist_metadata["artist"] = json_response["name"]
 
         artist_metadata["deezer-id"] =  json_response["id"]
-        artist_metadata["image"] = json_response["picture_big"]
+        artist_metadata["media"] = {}
+        artist_metadata["media"]["deezer-artist-image"] = json_response["picture_big"]
+
 
         with open(f"{self.ARTIST_METADATA_DIRECTORY}/{artist}.json", "w") as file:
             json.dump(artist_metadata, file, indent=4)
@@ -58,7 +61,8 @@ class DeezerClient:
 
         response = helpers.request_helper(f"{self.BASE_URL}/artist/{deezer_id}/albums", {"limit": 200}, "")
 
-        json_response = response.json()["data"]
+        json_response = helpers.safe_json(response)
+        json_response = json_response["data"]
 
         artist_metadata["releases"] = {}
         artist_metadata["releases"]["albums"] = []
@@ -82,11 +86,24 @@ class DeezerClient:
                 "release-data": album["release_date"],
                 "explicit": album["explicit_lyrics"],
                 "type": album["record_type"],
-                "image": album["cover_big"],
+                "media": {
+                    "deezer-album-image": album["cover_big"],
+                }
                 }
             )
 
-            deezer_genres[album["genre_id"]] = None
+            if not any(
+                item["genre_id"] == album["genre_id"]
+                for item in deezer_genres
+            ):
+                deezer_genres.append(
+                    {
+                        "genre_id": album["genre_id"],
+                        "genre": None,
+                        "image": None
+                    }
+                )
+
 
         with open(f"{self.ARTIST_METADATA_DIRECTORY}/{artist}.json", "w") as file:
             json.dump(artist_metadata, file, indent=4)
@@ -103,7 +120,8 @@ class DeezerClient:
 
         response = helpers.request_helper(f"{self.BASE_URL}/artist/{deezer_id}/related", "", "")
 
-        json_response = response.json()["data"]
+        json_response = helpers.safe_json(response)
+        json_response = json_response["data"]
         artist_metadata["deezer-similar-artists"] = []
 
         for similar_artist in json_response:
@@ -140,4 +158,20 @@ class DeezerClient:
 
     def resolve_genres(self):
 
-        with open
+        with open(self.DEEZER_GENRES_PATH, "r") as file:
+            genres_data = json.load(file)
+
+        for genre in genres_data:
+            response = helpers.request_helper(f"{self.BASE_URL}/genre/{genre["genre_id"]}", "", "")
+
+            json_response = helpers.safe_json(response)
+
+            if not "error" in json_response:
+                genre["genre"] = json_response["name"]
+                genre["image"] = json_response["picture_xl"]
+            else:
+                print(f"ERROR - {json_response["error"]["message"]} Code {json_response["error"]["code"]} (Most likely non-existant genre id)")
+            time.sleep(5)
+
+        with open(self.DEEZER_GENRES_PATH, "w") as file:
+            json.dump(genres_data, file, indent=4)

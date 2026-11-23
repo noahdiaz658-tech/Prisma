@@ -14,12 +14,16 @@ DeezerClient = DeezerAPI.DeezerClient()
 #FMClient.get_similar_artists("Cris MJ")
 #FMClient.get_top_artists_chart()
 
-Artist_MBID = MusicBrainzClient.get_MBIB("Rauw Alejandro")
-LastFMClient.get_similar_artists("Rauw Alejandro")
-DeezerClient.search_artist("Rauw Alejandro")
+MusicBrainzClient.search_artist("Bad Bunny")
 time.sleep(3)
-DeezerClient.get_artist_albums("Rauw Alejandro")
+Artist_MBID = MusicBrainzClient.get_MBIB("Bad Bunny")
+LastFMClient.get_similar_artists("Bad Bunny")
+DeezerClient.search_artist("Bad Bunny")
 time.sleep(3)
+DeezerClient.get_artist_albums("Bad Bunny")
+
+
+#DeezerClient.resolve_genres()
 
 
 """

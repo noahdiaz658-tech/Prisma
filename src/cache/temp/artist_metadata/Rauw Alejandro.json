@@ -1,7 +1,6 @@
 {
-    "mbid": "197b70c7-8910-4030-ad03-632d82aa40e3",
+    "mbid": "77cc6415-1abf-487a-a8b7-e56061cba518",
     "artist": "Rauw Alejandro",
-    "albums": [],
     "similar-artists": [
         {
             "mbid": "2b67658e-429f-425a-adf5-345b13112fc1",
@@ -155,7 +154,6 @@
         }
     ],
     "deezer-id": 11289472,
-    "image": "https://cdn-images.dzcdn.net/images/artist/0e7b2b93b91789a054bc3f08bb3df3a8/500x500-000000-80-0-0.jpg",
     "releases": {
         "albums": [
             {
@@ -165,7 +163,9 @@
                 "release-data": "2025-09-26",
                 "explicit": true,
                 "type": "album",
-                "image": "https://cdn-images.dzcdn.net/images/cover/17126f1338dfb9743ccf1b54b2c7ab2b/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/17126f1338dfb9743ccf1b54b2c7ab2b/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 668910861,
@@ -174,7 +174,26 @@
                 "release-data": "2024-11-15",
                 "explicit": true,
                 "type": "album",
-                "image": "https://cdn-images.dzcdn.net/images/cover/73ee2e7a43dbeaa119a62d9a15d28670/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/73ee2e7a43dbeaa119a62d9a15d28670/500x500-000000-80-0-0.jpg",
+                    "album-thumbnail": "https://r2.theaudiodb.com/images/media/album/thumb/eli8511731792846.jpg",
+                    "album-back": null,
+                    "album-cd-art": null,
+                    "album-spine": null,
+                    "album-3d-case": null,
+                    "album-3d-flat": null
+                },
+                "mbid": "77cc6415-1abf-487a-a8b7-e56061cba518",
+                "audiodb-id": "2438789",
+                "audiodb-genre": null,
+                "album-label-company": "Sony Music Latin/Duars Entertainment",
+                "label-company-audiodb-id": null,
+                "album-3d-face": null,
+                "album-3D-thumbnail": null,
+                "description": null,
+                "popularity-percentage": "87",
+                "mood": null,
+                "tempo": null
             },
             {
                 "deezer-id": 460518515,
@@ -183,7 +202,9 @@
                 "release-data": "2023-07-07",
                 "explicit": true,
                 "type": "album",
-                "image": "https://cdn-images.dzcdn.net/images/cover/00e071a1d8e65037e37e38c3ff673ef0/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/00e071a1d8e65037e37e38c3ff673ef0/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 372520617,
@@ -192,7 +213,9 @@
                 "release-data": "2022-11-11",
                 "explicit": true,
                 "type": "album",
-                "image": "https://cdn-images.dzcdn.net/images/cover/5259f60788a5e038121cd398a70f09af/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/5259f60788a5e038121cd398a70f09af/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 399809857,
@@ -201,7 +224,9 @@
                 "release-data": "2023-01-27",
                 "explicit": true,
                 "type": "album",
-                "image": "https://cdn-images.dzcdn.net/images/cover/5259f60788a5e038121cd398a70f09af/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/5259f60788a5e038121cd398a70f09af/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 298269712,
@@ -210,7 +235,9 @@
                 "release-data": "2022-02-25",
                 "explicit": true,
                 "type": "album",
-                "image": "https://cdn-images.dzcdn.net/images/cover/80f8f11592054ecf47318fbbff035498/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/80f8f11592054ecf47318fbbff035498/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 274810622,
@@ -219,7 +246,9 @@
                 "release-data": "2021-12-10",
                 "explicit": true,
                 "type": "album",
-                "image": "https://cdn-images.dzcdn.net/images/cover/a37d5de6838312531d93af97e3e31463/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/a37d5de6838312531d93af97e3e31463/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 185413242,
@@ -228,7 +257,9 @@
                 "release-data": "2020-11-13",
                 "explicit": true,
                 "type": "album",
-                "image": "https://cdn-images.dzcdn.net/images/cover/66b5a016e4d0443e691f8c3e20429e97/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/66b5a016e4d0443e691f8c3e20429e97/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 151086012,
@@ -237,7 +268,9 @@
                 "release-data": "2020-05-29",
                 "explicit": true,
                 "type": "album",
-                "image": "https://cdn-images.dzcdn.net/images/cover/26018543afaf79ddae50ebac0bf91a64/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/26018543afaf79ddae50ebac0bf91a64/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 97921262,
@@ -246,7 +279,9 @@
                 "release-data": "2019-05-31",
                 "explicit": true,
                 "type": "album",
-                "image": "https://cdn-images.dzcdn.net/images/cover/6970f96dfbe2a4f750cda7f167e73fb8/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/6970f96dfbe2a4f750cda7f167e73fb8/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 14751750,
@@ -255,7 +290,9 @@
                 "release-data": "2016-11-30",
                 "explicit": true,
                 "type": "album",
-                "image": "https://cdn-images.dzcdn.net/images/cover/6421725be28363ffecd5b78d18f36272/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/6421725be28363ffecd5b78d18f36272/500x500-000000-80-0-0.jpg"
+                }
             }
         ],
         "eps": [
@@ -266,7 +303,9 @@
                 "release-data": "2023-03-24",
                 "explicit": false,
                 "type": "ep",
-                "image": "https://cdn-images.dzcdn.net/images/cover/47be3894ae3c7fb4d5e86167eed8cbcd/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/47be3894ae3c7fb4d5e86167eed8cbcd/500x500-000000-80-0-0.jpg"
+                }
             }
         ],
         "singles": [
@@ -277,7 +316,9 @@
                 "release-data": "2026-11-19",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/65419013be29854a8751f6f88c79ac83/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/65419013be29854a8751f6f88c79ac83/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 1132183181,
@@ -286,7 +327,9 @@
                 "release-data": "2026-10-29",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/dedc2f544b230782fed7e78e21280eaf/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/dedc2f544b230782fed7e78e21280eaf/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 1081082532,
@@ -295,7 +338,9 @@
                 "release-data": "2026-09-17",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/dc492b8d028525c713a52713b9bb005d/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/dc492b8d028525c713a52713b9bb005d/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 996554781,
@@ -304,7 +349,9 @@
                 "release-data": "2026-06-01",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/fd1dd93b24597cfb6729e613b040e43e/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/fd1dd93b24597cfb6729e613b040e43e/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 962391691,
@@ -313,7 +360,9 @@
                 "release-data": "2026-04-22",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/8bc7c6af0593946fc6e2926c0913d527/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/8bc7c6af0593946fc6e2926c0913d527/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 931991361,
@@ -322,7 +371,9 @@
                 "release-data": "2026-03-19",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/a3c375742fde996cc7328543e51b42f4/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/a3c375742fde996cc7328543e51b42f4/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 918892351,
@@ -331,7 +382,9 @@
                 "release-data": "2026-02-22",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/41e37ff5386c9b52b246f5a4134ac215/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/41e37ff5386c9b52b246f5a4134ac215/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 825790711,
@@ -340,7 +393,9 @@
                 "release-data": "2025-09-25",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/17126f1338dfb9743ccf1b54b2c7ab2b/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/17126f1338dfb9743ccf1b54b2c7ab2b/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 815615341,
@@ -349,7 +404,9 @@
                 "release-data": "2025-09-10",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/1fa778ac4add18c93977fcae56d32798/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/1fa778ac4add18c93977fcae56d32798/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 792407261,
@@ -358,7 +415,9 @@
                 "release-data": "2025-07-31",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/669d6c7c7f651852f942943a69b7faee/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/669d6c7c7f651852f942943a69b7faee/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 784773091,
@@ -367,7 +426,9 @@
                 "release-data": "2025-07-17",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/004b7c22e9b4a2ff96fd9654afd3a1b8/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/004b7c22e9b4a2ff96fd9654afd3a1b8/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 765225881,
@@ -376,7 +437,9 @@
                 "release-data": "2025-06-03",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/08a0cb9b8034166d9504e4a8ef9955a2/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/08a0cb9b8034166d9504e4a8ef9955a2/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 736283691,
@@ -385,7 +448,9 @@
                 "release-data": "2025-04-10",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/aa082cbd3024b62f7fc7027c80ff4a16/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/aa082cbd3024b62f7fc7027c80ff4a16/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 651494591,
@@ -394,7 +459,9 @@
                 "release-data": "2024-10-18",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/2c8072f0ab18f71eea6d2e0e68ec8c53/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/2c8072f0ab18f71eea6d2e0e68ec8c53/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 647308841,
@@ -403,7 +470,9 @@
                 "release-data": "2024-09-26",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/d4f116d4508913a03b827cf27124bd54/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/d4f116d4508913a03b827cf27124bd54/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 613355372,
@@ -412,7 +481,9 @@
                 "release-data": "2024-07-18",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/2b65baa6a0f570cde85bbfe85b883e3e/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/2b65baa6a0f570cde85bbfe85b883e3e/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 587278052,
@@ -421,7 +492,9 @@
                 "release-data": "2024-05-23",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/94bfd1e74a719acada7a55a8b39a990a/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/94bfd1e74a719acada7a55a8b39a990a/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 572229321,
@@ -430,7 +503,9 @@
                 "release-data": "2024-04-18",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/c9217a42f5e5a66aa73b6d3c4e857709/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/c9217a42f5e5a66aa73b6d3c4e857709/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 568265501,
@@ -439,7 +514,9 @@
                 "release-data": "2024-04-11",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/c3693920d9375cf5824a1c4ffb7200d6/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/c3693920d9375cf5824a1c4ffb7200d6/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 565722141,
@@ -448,7 +525,9 @@
                 "release-data": "2024-04-04",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/965eeb50245f3178580ac5bda885e56b/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/965eeb50245f3178580ac5bda885e56b/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 563333102,
@@ -457,7 +536,9 @@
                 "release-data": "2024-03-29",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/5da57805bfe50c842da43cc3842834a0/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/5da57805bfe50c842da43cc3842834a0/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 607252432,
@@ -466,7 +547,9 @@
                 "release-data": "2023-12-24",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/9a571bd13f39ca5edc28b035bde94948/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/9a571bd13f39ca5edc28b035bde94948/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 519984312,
@@ -475,7 +558,9 @@
                 "release-data": "2023-12-08",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/abb3d5b714b7a8a4aace23a87c20ae2e/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/abb3d5b714b7a8a4aace23a87c20ae2e/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 475387255,
@@ -484,7 +569,9 @@
                 "release-data": "2023-08-24",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/556a3c8c36ed7abfec399461af34d28c/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/556a3c8c36ed7abfec399461af34d28c/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 455956675,
@@ -493,7 +580,9 @@
                 "release-data": "2023-06-23",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/cde16d42c97d7a2ef939683776abf5f3/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/cde16d42c97d7a2ef939683776abf5f3/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 455462825,
@@ -502,7 +591,9 @@
                 "release-data": "2023-06-21",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/789fc9641634586fd74b6ff8f8468ab3/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/789fc9641634586fd74b6ff8f8468ab3/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 406099477,
@@ -511,7 +602,9 @@
                 "release-data": "2023-02-13",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/afd396271e4181ef137dabf9b5c94eb2/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/afd396271e4181ef137dabf9b5c94eb2/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 399806147,
@@ -520,7 +613,9 @@
                 "release-data": "2023-01-26",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/5259f60788a5e038121cd398a70f09af/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/5259f60788a5e038121cd398a70f09af/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 372875747,
@@ -529,7 +624,9 @@
                 "release-data": "2022-11-10",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/5259f60788a5e038121cd398a70f09af/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/5259f60788a5e038121cd398a70f09af/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 370456207,
@@ -538,7 +635,9 @@
                 "release-data": "2022-10-28",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/c34fd67d6e54a777bce0f415c867c3f5/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/c34fd67d6e54a777bce0f415c867c3f5/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 357309667,
@@ -547,7 +646,9 @@
                 "release-data": "2022-09-22",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/fed547fa4455f1e9c711cb3d9185b0a1/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/fed547fa4455f1e9c711cb3d9185b0a1/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 338505927,
@@ -556,7 +657,9 @@
                 "release-data": "2022-07-25",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/2d50aff19d283eb7b4ddcda9df86edbe/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/2d50aff19d283eb7b4ddcda9df86edbe/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 330576967,
@@ -565,7 +668,9 @@
                 "release-data": "2022-07-21",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/4aa9456a6466925d64451488c994ecb2/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/4aa9456a6466925d64451488c994ecb2/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 322308737,
@@ -574,7 +679,9 @@
                 "release-data": "2022-06-03",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/ea6306b64aae6b4117bcd28be633c3fd/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/ea6306b64aae6b4117bcd28be633c3fd/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 310478997,
@@ -583,7 +690,9 @@
                 "release-data": "2022-04-21",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/28f42c9a3641c18d5cbdd4c5561ecc2a/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/28f42c9a3641c18d5cbdd4c5561ecc2a/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 298015822,
@@ -592,7 +701,9 @@
                 "release-data": "2022-02-24",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/80f8f11592054ecf47318fbbff035498/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/80f8f11592054ecf47318fbbff035498/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 294354862,
@@ -601,7 +712,9 @@
                 "release-data": "2022-02-17",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/5a1a238b9dee612f95cb7df25bc840d6/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/5a1a238b9dee612f95cb7df25bc840d6/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 293181772,
@@ -610,7 +723,9 @@
                 "release-data": "2022-02-07",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/fe7944ea7b453c17a4c1473dbdb1243f/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/fe7944ea7b453c17a4c1473dbdb1243f/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 286886702,
@@ -619,7 +734,9 @@
                 "release-data": "2021-12-23",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/b47b3b6bbe395b2fdc03a03a7614e2b0/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/b47b3b6bbe395b2fdc03a03a7614e2b0/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 274810572,
@@ -628,7 +745,9 @@
                 "release-data": "2021-12-11",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/a37d5de6838312531d93af97e3e31463/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/a37d5de6838312531d93af97e3e31463/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 266981182,
@@ -637,7 +756,9 @@
                 "release-data": "2021-10-26",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/5e1cef3a8baf86277ee6a693b21b0287/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/5e1cef3a8baf86277ee6a693b21b0287/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 265762122,
@@ -646,7 +767,9 @@
                 "release-data": "2021-10-22",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/9dc8207002a14d97d36212c674205ec0/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/9dc8207002a14d97d36212c674205ec0/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 965718971,
@@ -655,7 +778,9 @@
                 "release-data": "2021-10-14",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/8552e4a8dd8dc9a3d8d78c7e6d9386f7/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/8552e4a8dd8dc9a3d8d78c7e6d9386f7/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 252728472,
@@ -664,7 +789,9 @@
                 "release-data": "2021-09-08",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/5b5b786af475dd47e745e91680a7f411/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/5b5b786af475dd47e745e91680a7f411/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 246369572,
@@ -673,7 +800,9 @@
                 "release-data": "2021-08-12",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/d05d0e353e078bd485e2b4e72d76bdf6/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/d05d0e353e078bd485e2b4e72d76bdf6/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 246430812,
@@ -682,7 +811,9 @@
                 "release-data": "2021-07-29",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/59af29510346852e1c33a49b4ce37d9e/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/59af29510346852e1c33a49b4ce37d9e/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 246380132,
@@ -691,7 +822,9 @@
                 "release-data": "2025-01-11",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/e2670e75427a25e870ada6196efe5715/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/e2670e75427a25e870ada6196efe5715/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 240819402,
@@ -700,7 +833,9 @@
                 "release-data": "2021-07-05",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/249c8b4265eb6978ad5d4470bc2d4564/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/249c8b4265eb6978ad5d4470bc2d4564/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 229571852,
@@ -709,7 +844,9 @@
                 "release-data": "2021-05-20",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/7167a61f54a62c453f4d99ee59c151a4/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/7167a61f54a62c453f4d99ee59c151a4/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 217695992,
@@ -718,7 +855,9 @@
                 "release-data": "2021-04-01",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/e9d1d2b1ceafe3d812b971d31282a6a1/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/e9d1d2b1ceafe3d812b971d31282a6a1/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 212747012,
@@ -727,7 +866,9 @@
                 "release-data": "2021-03-26",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/3511f81805fabc6c9fef9a4e35e0eadc/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/3511f81805fabc6c9fef9a4e35e0eadc/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 213530982,
@@ -736,7 +877,9 @@
                 "release-data": "2021-03-26",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/96235e519187401179bf36f3f5faeb33/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/96235e519187401179bf36f3f5faeb33/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 213068152,
@@ -745,7 +888,9 @@
                 "release-data": "2021-03-18",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/29bda1739f2ed34ed950c7454f46a606/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/29bda1739f2ed34ed950c7454f46a606/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 213463512,
@@ -754,7 +899,9 @@
                 "release-data": "2021-03-11",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/ff111c004762bc989f386ff0b2e2c33c/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/ff111c004762bc989f386ff0b2e2c33c/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 209942492,
@@ -763,7 +910,9 @@
                 "release-data": "2021-03-05",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/14b0aec64a459543ddb3aa80bbc8e724/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/14b0aec64a459543ddb3aa80bbc8e724/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 208844072,
@@ -772,7 +921,9 @@
                 "release-data": "2021-02-26",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/07a7b8603753cb7462876d0e9c44243e/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/07a7b8603753cb7462876d0e9c44243e/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 207128602,
@@ -781,7 +932,9 @@
                 "release-data": "2021-02-19",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/cf4e96ebe2ce1343d580bc6c5ca8adbd/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/cf4e96ebe2ce1343d580bc6c5ca8adbd/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 207443972,
@@ -790,7 +943,9 @@
                 "release-data": "2021-02-14",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/6afd7aa3712ab427b3ff9867ffa5baaa/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/6afd7aa3712ab427b3ff9867ffa5baaa/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 201153302,
@@ -799,7 +954,9 @@
                 "release-data": "2021-01-21",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/9c7df13462dd1db9fbd7a817f5603ba6/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/9c7df13462dd1db9fbd7a817f5603ba6/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 190238382,
@@ -808,7 +965,9 @@
                 "release-data": "2020-12-17",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/458b9a57e47e6584b5f6e8686fdbf622/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/458b9a57e47e6584b5f6e8686fdbf622/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 187651072,
@@ -817,7 +976,9 @@
                 "release-data": "2020-12-11",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/ebc74c495280f885a227195adde27a5c/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/ebc74c495280f885a227195adde27a5c/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 185416302,
@@ -826,7 +987,9 @@
                 "release-data": "2020-11-12",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/79cbba480f58bc439b78dc4c37c13bc2/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/79cbba480f58bc439b78dc4c37c13bc2/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 180557512,
@@ -835,7 +998,9 @@
                 "release-data": "2020-10-22",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/d582ea50b2178d0c0599ee93628f6e99/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/d582ea50b2178d0c0599ee93628f6e99/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 176594342,
@@ -844,7 +1009,9 @@
                 "release-data": "2020-10-08",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/a871bc44a406ccead04f94d925ffd959/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/a871bc44a406ccead04f94d925ffd959/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 175427582,
@@ -853,7 +1020,9 @@
                 "release-data": "2020-10-01",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/7e5f359e24b7c677e5047391b2e357f6/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/7e5f359e24b7c677e5047391b2e357f6/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 173301132,
@@ -862,7 +1031,9 @@
                 "release-data": "2020-09-17",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/f1c0904368a0361074b186190f3c58cd/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/f1c0904368a0361074b186190f3c58cd/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 168561902,
@@ -871,7 +1042,9 @@
                 "release-data": "2020-09-04",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/b98d49201902048f4b5757fa059e5346/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/b98d49201902048f4b5757fa059e5346/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 928151381,
@@ -880,7 +1053,9 @@
                 "release-data": "2020-09-03",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/d44db48c8dadfa5810d2d342a2e5de2e/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/d44db48c8dadfa5810d2d342a2e5de2e/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 169149992,
@@ -889,7 +1064,9 @@
                 "release-data": "2020-08-27",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/c8e6652a3314af72e198bd4bac043afb/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/c8e6652a3314af72e198bd4bac043afb/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 160627842,
@@ -898,7 +1075,9 @@
                 "release-data": "2020-07-17",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/293d7bc8ed2a071903b9dcb8b72a472b/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/293d7bc8ed2a071903b9dcb8b72a472b/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 158398762,
@@ -907,7 +1086,9 @@
                 "release-data": "2020-07-09",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/57e994f9cf091d162589d31e98e3efa2/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/57e994f9cf091d162589d31e98e3efa2/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 157293892,
@@ -916,7 +1097,9 @@
                 "release-data": "2020-07-02",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/ef5f4f8c6dc9b4a0820279dd741082b9/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/ef5f4f8c6dc9b4a0820279dd741082b9/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 156280272,
@@ -925,7 +1108,9 @@
                 "release-data": "2020-06-25",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/67a980d6f0e68da999109114e0514231/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/67a980d6f0e68da999109114e0514231/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 154551722,
@@ -934,7 +1119,9 @@
                 "release-data": "2020-06-19",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/c4647a4c806a50107ebb01e73201b9a2/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/c4647a4c806a50107ebb01e73201b9a2/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 149424662,
@@ -943,7 +1130,9 @@
                 "release-data": "2020-05-29",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/9d75323c1758d5a95fd665e541696a77/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/9d75323c1758d5a95fd665e541696a77/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 143239542,
@@ -952,7 +1141,9 @@
                 "release-data": "2020-04-24",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/5933dfde316fa57a85d84d9e119e2a7c/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/5933dfde316fa57a85d84d9e119e2a7c/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 137368842,
@@ -961,7 +1152,9 @@
                 "release-data": "2020-04-16",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/d2eb6bcfe3bb487aec62ac47ad868bf1/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/d2eb6bcfe3bb487aec62ac47ad868bf1/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 139225712,
@@ -970,7 +1163,9 @@
                 "release-data": "2020-04-01",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/ed11d8626f0015b68dec5eac76f1566d/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/ed11d8626f0015b68dec5eac76f1566d/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 137552892,
@@ -979,7 +1174,9 @@
                 "release-data": "2020-03-27",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/eb6f9504c3b93d6cb93071a24e51d0cb/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/eb6f9504c3b93d6cb93071a24e51d0cb/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 954238141,
@@ -988,7 +1185,9 @@
                 "release-data": "2020-03-27",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/f24d07d835855198cf06d41a5d13ba0c/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/f24d07d835855198cf06d41a5d13ba0c/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 137929122,
@@ -997,7 +1196,9 @@
                 "release-data": "2020-03-26",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/26110c54b3f3d89ab94215969102da53/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/26110c54b3f3d89ab94215969102da53/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 136147542,
@@ -1006,7 +1207,9 @@
                 "release-data": "2020-03-17",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/a2a20ded454a934cd03fc10ee959b58e/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/a2a20ded454a934cd03fc10ee959b58e/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 132973752,
@@ -1015,7 +1218,9 @@
                 "release-data": "2020-03-13",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/e45385e203d6939cfb5574a74c9ef68b/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/e45385e203d6939cfb5574a74c9ef68b/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 135223402,
@@ -1024,7 +1229,9 @@
                 "release-data": "2020-03-13",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/ff2dbe245dda738a162fbb0956e877d0/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/ff2dbe245dda738a162fbb0956e877d0/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 134464432,
@@ -1033,7 +1240,9 @@
                 "release-data": "2020-03-06",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/fe7401c4046a1fd0225c0d7432ae87e7/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/fe7401c4046a1fd0225c0d7432ae87e7/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 132001192,
@@ -1042,7 +1251,9 @@
                 "release-data": "2020-02-21",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/75628e20a8c5b4cb0171a22d2d6cef59/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/75628e20a8c5b4cb0171a22d2d6cef59/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 128337322,
@@ -1051,7 +1262,9 @@
                 "release-data": "2020-02-13",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/7a3ff432b3b5aaf92a2a35edc5da71ac/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/7a3ff432b3b5aaf92a2a35edc5da71ac/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 127945532,
@@ -1060,7 +1273,9 @@
                 "release-data": "2020-01-29",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/bfd8b3a577a85cdefe52bacd71a22fba/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/bfd8b3a577a85cdefe52bacd71a22fba/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 127750522,
@@ -1069,7 +1284,9 @@
                 "release-data": "2020-01-24",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/e7f35a0122565454ff333e077d60bea1/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/e7f35a0122565454ff333e077d60bea1/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 449934325,
@@ -1078,7 +1295,9 @@
                 "release-data": "2020-01-08",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/5e3c72b12740bc3794d60e7d9f90596d/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/5e3c72b12740bc3794d60e7d9f90596d/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 123387862,
@@ -1087,7 +1306,9 @@
                 "release-data": "2019-12-27",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/11b819823fd8fffd95bc3352885f305f/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/11b819823fd8fffd95bc3352885f305f/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 123109212,
@@ -1096,7 +1317,9 @@
                 "release-data": "2019-12-20",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/427d09902cc8482ecadecde4869daf17/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/427d09902cc8482ecadecde4869daf17/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 119684302,
@@ -1105,7 +1328,9 @@
                 "release-data": "2019-12-13",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/b633661ef86386798a95c1eb55aa416c/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/b633661ef86386798a95c1eb55aa416c/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 120104312,
@@ -1114,7 +1339,9 @@
                 "release-data": "2019-12-13",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/44213a0d48d3731794ca73665ca06427/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/44213a0d48d3731794ca73665ca06427/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 120655982,
@@ -1123,7 +1350,9 @@
                 "release-data": "2019-12-06",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/01a37acc6e39e5601e711aca926a8f22/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/01a37acc6e39e5601e711aca926a8f22/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 121478582,
@@ -1132,7 +1361,9 @@
                 "release-data": "2019-12-06",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/c032e2f347639b5917fd5d98eb864a90/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/c032e2f347639b5917fd5d98eb864a90/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 115271282,
@@ -1141,7 +1372,9 @@
                 "release-data": "2019-11-20",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/73914a5f15d7d18ae1081f2c456ab33d/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/73914a5f15d7d18ae1081f2c456ab33d/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 118167142,
@@ -1150,7 +1383,9 @@
                 "release-data": "2019-11-13",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/fc44ae797d4e4dbb9ea84fe78bb76ba9/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/fc44ae797d4e4dbb9ea84fe78bb76ba9/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 115110362,
@@ -1159,7 +1394,9 @@
                 "release-data": "2019-11-08",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/9b940c01ab467b79339b1ec8c45008d6/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/9b940c01ab467b79339b1ec8c45008d6/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 115378862,
@@ -1168,7 +1405,9 @@
                 "release-data": "2019-11-08",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/c6f1903f8cd305cd33aa4c9e847f0a4e/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/c6f1903f8cd305cd33aa4c9e847f0a4e/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 117391462,
@@ -1177,7 +1416,9 @@
                 "release-data": "2019-11-07",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/c316993fba0fbd091653d773c50069e2/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/c316993fba0fbd091653d773c50069e2/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 116964612,
@@ -1186,7 +1427,9 @@
                 "release-data": "2019-11-05",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/6863e2f00daa5847764c067a92c4569a/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/6863e2f00daa5847764c067a92c4569a/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 115829332,
@@ -1195,7 +1438,9 @@
                 "release-data": "2019-10-31",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/72d6d334106e9a4694330d4f83a3687b/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/72d6d334106e9a4694330d4f83a3687b/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 449934305,
@@ -1204,7 +1449,9 @@
                 "release-data": "2019-10-18",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/d43ff3c693fd932eeb8fffdd8baf6f3a/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/d43ff3c693fd932eeb8fffdd8baf6f3a/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 110384722,
@@ -1213,7 +1460,9 @@
                 "release-data": "2019-09-13",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/65b2db1298c5dbb58fe74afff012cabc/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/65b2db1298c5dbb58fe74afff012cabc/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 949117921,
@@ -1222,7 +1471,9 @@
                 "release-data": "2019-09-13",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/d56d64b5e3a8a0185c52f1c66771f96b/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/d56d64b5e3a8a0185c52f1c66771f96b/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 108652502,
@@ -1231,7 +1482,9 @@
                 "release-data": "2019-09-04",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/ffe38ac6998d7fbc91e48c58afdae006/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/ffe38ac6998d7fbc91e48c58afdae006/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 107237732,
@@ -1240,7 +1493,9 @@
                 "release-data": "2019-08-29",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/735a266ec0b5083aaccbf1ae0d3fe45a/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/735a266ec0b5083aaccbf1ae0d3fe45a/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 104772842,
@@ -1249,7 +1504,9 @@
                 "release-data": "2019-08-09",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/944ebdc3f6977f104a539c29b5451206/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/944ebdc3f6977f104a539c29b5451206/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 103909302,
@@ -1258,7 +1515,9 @@
                 "release-data": "2019-08-02",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/af12fecd07c956478fe65a70ae081c85/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/af12fecd07c956478fe65a70ae081c85/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 102166532,
@@ -1267,7 +1526,9 @@
                 "release-data": "2019-07-19",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/69d93180195a12aad802cbdb59bb3d50/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/69d93180195a12aad802cbdb59bb3d50/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 102068182,
@@ -1276,7 +1537,9 @@
                 "release-data": "2019-07-08",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/7d5800f7b418ccdf68a38181a358b730/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/7d5800f7b418ccdf68a38181a358b730/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 100298362,
@@ -1285,7 +1548,9 @@
                 "release-data": "2019-06-28",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/80f5c364685fd21963952dbf95613268/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/80f5c364685fd21963952dbf95613268/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 100648312,
@@ -1294,7 +1559,9 @@
                 "release-data": "2019-06-21",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/c7f8ba841b64d36a5c4d9b08ff1750a5/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/c7f8ba841b64d36a5c4d9b08ff1750a5/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 99688632,
@@ -1303,7 +1570,9 @@
                 "release-data": "2019-06-14",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/9f111603626a38661cdd47bf2c04243b/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/9f111603626a38661cdd47bf2c04243b/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 97394922,
@@ -1312,7 +1581,9 @@
                 "release-data": "2019-05-24",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/a0b783cfb735c7c991efe2b4a8942493/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/a0b783cfb735c7c991efe2b4a8942493/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 96579462,
@@ -1321,7 +1592,9 @@
                 "release-data": "2019-05-17",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/52437667fa60e397bdf7320148d9e06d/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/52437667fa60e397bdf7320148d9e06d/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 553383772,
@@ -1330,7 +1603,9 @@
                 "release-data": "2019-05-17",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/8f98b5380c8017b66aa1c6b33444bb81/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/8f98b5380c8017b66aa1c6b33444bb81/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 93505582,
@@ -1339,7 +1614,9 @@
                 "release-data": "2019-04-18",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/90b9b2bb9395a84cccb94f46f7758d5f/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/90b9b2bb9395a84cccb94f46f7758d5f/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 101849412,
@@ -1348,7 +1625,9 @@
                 "release-data": "2019-03-22",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/d94cfa267906539abc2bd0055b8acbbf/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/d94cfa267906539abc2bd0055b8acbbf/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 89574142,
@@ -1357,7 +1636,9 @@
                 "release-data": "2019-03-15",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/f22008ee7be5b98f5d20de528e297f57/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/f22008ee7be5b98f5d20de528e297f57/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 85995362,
@@ -1366,7 +1647,9 @@
                 "release-data": "2019-02-22",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/6a2897f6cc419cbb84698b93e3c03749/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/6a2897f6cc419cbb84698b93e3c03749/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 81773512,
@@ -1375,7 +1658,9 @@
                 "release-data": "2019-01-25",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/350e1bdc672a216a5f5bd91e383d6682/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/350e1bdc672a216a5f5bd91e383d6682/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 345737287,
@@ -1384,7 +1669,9 @@
                 "release-data": "2019-01-08",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/0ef0df2b05e744c435cda5c873dc6006/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/0ef0df2b05e744c435cda5c873dc6006/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 309684727,
@@ -1393,7 +1680,9 @@
                 "release-data": "2018-12-26",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/94c9bd0ca2f478125f28ace7ba3d6811/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/94c9bd0ca2f478125f28ace7ba3d6811/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 771159341,
@@ -1402,7 +1691,9 @@
                 "release-data": "2018-12-12",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/77c39e490dbb8657b2aa40148d60973d/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/77c39e490dbb8657b2aa40148d60973d/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 428571327,
@@ -1411,7 +1702,9 @@
                 "release-data": "2018-12-06",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/f92eb94c5347babb8f63fd0419ddc1fd/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/f92eb94c5347babb8f63fd0419ddc1fd/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 78351452,
@@ -1420,7 +1713,9 @@
                 "release-data": "2018-11-30",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/8b38aa5bc15eb41b5b63719703d5141f/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/8b38aa5bc15eb41b5b63719703d5141f/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 78335382,
@@ -1429,7 +1724,9 @@
                 "release-data": "2018-11-21",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/d0b68187dcb466d280ac3662e72fe274/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/d0b68187dcb466d280ac3662e72fe274/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 1008403851,
@@ -1438,7 +1735,9 @@
                 "release-data": "2018-11-16",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/f7dffc974eb787f8dbe84b68bb36814c/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/f7dffc974eb787f8dbe84b68bb36814c/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 101847322,
@@ -1447,7 +1746,9 @@
                 "release-data": "2018-10-19",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/c90bf85e54cab2abf6fe8870f23efdef/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/c90bf85e54cab2abf6fe8870f23efdef/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 74730232,
@@ -1456,7 +1757,9 @@
                 "release-data": "2018-10-05",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/342cf732bdf896f3ea476291067e59f4/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/342cf732bdf896f3ea476291067e59f4/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 74668402,
@@ -1465,7 +1768,9 @@
                 "release-data": "2018-10-04",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/a4de6954962ec497f938d748b8380045/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/a4de6954962ec497f938d748b8380045/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 73957262,
@@ -1474,7 +1779,9 @@
                 "release-data": "2018-09-21",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/d910986c93cc557cf53372b8bcdb4603/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/d910986c93cc557cf53372b8bcdb4603/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 72341002,
@@ -1483,7 +1790,9 @@
                 "release-data": "2018-09-07",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/664ef9f2b7bb7c7d3b4b3d8c80e73eda/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/664ef9f2b7bb7c7d3b4b3d8c80e73eda/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 70091632,
@@ -1492,7 +1801,9 @@
                 "release-data": "2018-08-10",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/26e9855455267ed39477da37a654156f/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/26e9855455267ed39477da37a654156f/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 101849402,
@@ -1501,7 +1812,9 @@
                 "release-data": "2018-08-03",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/6dc5c16190d173322cd8d0e0fe84d85b/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/6dc5c16190d173322cd8d0e0fe84d85b/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 949117571,
@@ -1510,7 +1823,9 @@
                 "release-data": "2018-06-01",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/879f88df6033360fe2a45d59a4c3076c/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/879f88df6033360fe2a45d59a4c3076c/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 64543662,
@@ -1519,7 +1834,9 @@
                 "release-data": "2018-05-30",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/f13de6d941ba10b78de45a53ac2959e7/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/f13de6d941ba10b78de45a53ac2959e7/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 60103492,
@@ -1528,7 +1845,9 @@
                 "release-data": "2018-03-28",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/238ce2b094a36877b05674d9ed66325b/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/238ce2b094a36877b05674d9ed66325b/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 58482452,
@@ -1537,7 +1856,9 @@
                 "release-data": "2018-03-09",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/cb7fae7510e24c0c5e2b0b86b89b1647/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/cb7fae7510e24c0c5e2b0b86b89b1647/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 53808162,
@@ -1546,7 +1867,9 @@
                 "release-data": "2017-12-22",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/4e1576e5642bc52409ee1a8eed04b6f3/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/4e1576e5642bc52409ee1a8eed04b6f3/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 48926642,
@@ -1555,7 +1878,9 @@
                 "release-data": "2017-09-25",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/a62ec2d988c96733858d30fde0a92ca0/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/a62ec2d988c96733858d30fde0a92ca0/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 300284727,
@@ -1564,7 +1889,9 @@
                 "release-data": "2017-08-04",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/a5e7460b29d4dfbfd63bf6f8de2dbc0f/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/a5e7460b29d4dfbfd63bf6f8de2dbc0f/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 101848332,
@@ -1573,7 +1900,9 @@
                 "release-data": "2017-07-14",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/7fffb70ef4f5ae12b3de13e8f38ed15e/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/7fffb70ef4f5ae12b3de13e8f38ed15e/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 43220231,
@@ -1582,7 +1911,9 @@
                 "release-data": "2017-06-16",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/ba03aedede99df867ab6ec834aae2838/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/ba03aedede99df867ab6ec834aae2838/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 41240441,
@@ -1591,7 +1922,9 @@
                 "release-data": "2017-05-12",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/9e26ecad4560e52747b819d0747bfbcc/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/9e26ecad4560e52747b819d0747bfbcc/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 300284477,
@@ -1600,7 +1933,9 @@
                 "release-data": "2017-03-03",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/fce834f17b6aa17632f3ec6af27aa5ed/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/fce834f17b6aa17632f3ec6af27aa5ed/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 14589294,
@@ -1609,7 +1944,9 @@
                 "release-data": "2016-10-23",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/c59c4575f68524009fece1d8f04b86e5/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/c59c4575f68524009fece1d8f04b86e5/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 14426652,
@@ -1618,7 +1955,9 @@
                 "release-data": "2016-10-17",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/c58319d4865e0764ce07d07d86014bf7/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/c58319d4865e0764ce07d07d86014bf7/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 14429920,
@@ -1627,7 +1966,9 @@
                 "release-data": "2016-10-17",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/ce57da964e60ac9d5a95975fed16a179/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/ce57da964e60ac9d5a95975fed16a179/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 14565872,
@@ -1636,7 +1977,9 @@
                 "release-data": "2016-10-17",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/947bf4caa67a40ef23c7a546e7183c85/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/947bf4caa67a40ef23c7a546e7183c85/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 14565876,
@@ -1645,7 +1988,9 @@
                 "release-data": "2016-10-17",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/7ed56bd12a16c8b8d4f719ca758a5aa9/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/7ed56bd12a16c8b8d4f719ca758a5aa9/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 14736280,
@@ -1654,7 +1999,9 @@
                 "release-data": "2016-08-01",
                 "explicit": true,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/e0a64e2e83f06483b9921788baf220c6/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/e0a64e2e83f06483b9921788baf220c6/500x500-000000-80-0-0.jpg"
+                }
             },
             {
                 "deezer-id": 14558268,
@@ -1663,8 +2010,43 @@
                 "release-data": "2016-06-04",
                 "explicit": false,
                 "type": "single",
-                "image": "https://cdn-images.dzcdn.net/images/cover/682d448db65c6577fcc340758c769749/500x500-000000-80-0-0.jpg"
+                "media": {
+                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/682d448db65c6577fcc340758c769749/500x500-000000-80-0-0.jpg"
+                }
             }
         ]
+    },
+    "year-started": "2014",
+    "year-born": "1993",
+    "year-died": null,
+    "audiodb-id": "N/A",
+    "followers": "27553592",
+    "popularity-percentage": "91",
+    "style": "",
+    "audiodb-genre": "Latin",
+    "mood": "",
+    "bio": "Ra\u00fal Alejandro Ocasio Ruiz (born January 10, 1993), known professionally as Rauw Alejandro, is a Puerto Rican musician, singer, songwriter, rapper, record producer, and dancer. Referred to as the \"King of Modern Reggaeton\", he belongs to \"the new generation\" of Puerto Rican urban musicians. His debut studio album, Afrodis\u00edaco, was released in November 2020. His second studio album, Vice Versa, released in June 2021, featured the lead single \"Todo de Ti\". He has won one Latin Grammy Award from four nominations.",
+    "gender": "Male",
+    "aritst-label-company": null,
+    "members": "1",
+    "origin": "San Juan, Puerto Rico",
+    "origin-country": "PR",
+    "album-label-company": "Sony Music Latin/Duars Entertainment",
+    "label-company-audiodb-id": null,
+    "album-3d-face": null,
+    "album-3D-thumbnail": null,
+    "description": null,
+    "tempo": null,
+    "media": {
+        "artist-thumbnail": "https://r2.theaudiodb.com/images/media/artist/thumb/nzq1nr1668173698.jpg",
+        "artist-logo": "https://r2.theaudiodb.com/images/media/artist/logo/g75l8t1668173846.png",
+        "artist-cutout": "https://r2.TheAudioDB.com/images/media/artist/cutout/msboe01731792922.png",
+        "aritst-clear-art": null,
+        "artist-wide-thumbnail": null,
+        "fan-art-1": null,
+        "fan-art-2": null,
+        "fan-art-3": null,
+        "fan-art-4": null,
+        "artist-banner": null
     }
 }
