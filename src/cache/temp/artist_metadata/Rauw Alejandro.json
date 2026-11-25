@@ -175,25 +175,12 @@
                 "explicit": true,
                 "type": "album",
                 "media": {
-                    "deezer-album-image": "https://cdn-images.dzcdn.net/images/cover/73ee2e7a43dbeaa119a62d9a15d28670/500x500-000000-80-0-0.jpg",
-                    "album-thumbnail": "https://r2.theaudiodb.com/images/media/album/thumb/eli8511731792846.jpg",
-                    "album-back": null,
-                    "album-cd-art": null,
-                    "album-spine": null,
-                    "album-3d-case": null,
-                    "album-3d-flat": null
+                    "album-thumbnail": "https://r2.theaudiodb.com/images/media/album/thumb/eli8511731792846.jpg"
                 },
                 "mbid": "77cc6415-1abf-487a-a8b7-e56061cba518",
                 "audiodb-id": "2438789",
-                "audiodb-genre": null,
                 "album-label-company": "Sony Music Latin/Duars Entertainment",
-                "label-company-audiodb-id": null,
-                "album-3d-face": null,
-                "album-3D-thumbnail": null,
-                "description": null,
-                "popularity-percentage": "87",
-                "mood": null,
-                "tempo": null
+                "popularity-percentage": "87"
             },
             {
                 "deezer-id": 460518515,
@@ -2018,35 +2005,20 @@
     },
     "year-started": "2014",
     "year-born": "1993",
-    "year-died": null,
-    "audiodb-id": "N/A",
+    "audiodb-id": "163490",
     "followers": "27553592",
     "popularity-percentage": "91",
-    "style": "",
     "audiodb-genre": "Latin",
-    "mood": "",
     "bio": "Ra\u00fal Alejandro Ocasio Ruiz (born January 10, 1993), known professionally as Rauw Alejandro, is a Puerto Rican musician, singer, songwriter, rapper, record producer, and dancer. Referred to as the \"King of Modern Reggaeton\", he belongs to \"the new generation\" of Puerto Rican urban musicians. His debut studio album, Afrodis\u00edaco, was released in November 2020. His second studio album, Vice Versa, released in June 2021, featured the lead single \"Todo de Ti\". He has won one Latin Grammy Award from four nominations.",
     "gender": "Male",
-    "aritst-label-company": null,
     "members": "1",
-    "origin": "San Juan, Puerto Rico",
-    "origin-country": "PR",
     "album-label-company": "Sony Music Latin/Duars Entertainment",
-    "label-company-audiodb-id": null,
-    "album-3d-face": null,
-    "album-3D-thumbnail": null,
-    "description": null,
-    "tempo": null,
     "media": {
         "artist-thumbnail": "https://r2.theaudiodb.com/images/media/artist/thumb/nzq1nr1668173698.jpg",
         "artist-logo": "https://r2.theaudiodb.com/images/media/artist/logo/g75l8t1668173846.png",
-        "artist-cutout": "https://r2.TheAudioDB.com/images/media/artist/cutout/msboe01731792922.png",
-        "aritst-clear-art": null,
-        "artist-wide-thumbnail": null,
-        "fan-art-1": null,
-        "fan-art-2": null,
-        "fan-art-3": null,
-        "fan-art-4": null,
-        "artist-banner": null
-    }
+        "artist-cutout": "https://r2.TheAudioDB.com/images/media/artist/cutout/msboe01731792922.png"
+    },
+    "no-audiodb-metadata": false,
+    "origin": "San Juan, Puerto Rico",
+    "origin-country": "PR"
 }

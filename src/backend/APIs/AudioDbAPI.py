@@ -7,7 +7,7 @@ class AudioDbClient:
         # Free API key
         self.API_KEY = "123"
         self.BASE_URL = f"https://www.theaudiodb.com/api/v1/json/{self.API_KEY}"
-        self.ARTIST_METADATA_DIRECTORY = "../../cache/temp/artist_metadata"
+        self.ARTIST_METADATA_DIRECTORY = "../cache/temp/artist_metadata"
 
     def search_artist(self, artist:str):
 
@@ -74,9 +74,11 @@ class AudioDbClient:
 
         for tag_alias in desired_tags_aliases:
             if desired_tags_dict[tag_alias] in image_tags:
-                artist_metadata["media"][tag_alias] = json_response.get(desired_tags_dict[tag_alias], "N/A")
+                if not json_response.get(desired_tags_dict[tag_alias], None) is None and not json_response.get(desired_tags_dict[tag_alias], None) == "":
+                    artist_metadata["media"][tag_alias] = json_response.get(desired_tags_dict[tag_alias], "N/A")
             else:
-                artist_metadata[tag_alias] = json_response.get(desired_tags_dict[tag_alias], "N/A")
+                if not json_response.get(desired_tags_dict[tag_alias], None) is None and not json_response.get(desired_tags_dict[tag_alias], None) == "":
+                    artist_metadata[tag_alias] = json_response.get(desired_tags_dict[tag_alias], "N/A")
 
 
         with open(f"{self.ARTIST_METADATA_DIRECTORY}/{artist}.json", "w") as file:
@@ -111,6 +113,8 @@ class AudioDbClient:
             "strAlbumSpine",
             "strAlbum3DCase",
             "strAlbum3DFlat",
+            "strAlbum3DFace",
+            "strAlbum3DThumb"
         ]
 
         response = helpers.request_helper(
@@ -138,9 +142,11 @@ class AudioDbClient:
 
                 for tag_alias in desired_tags_aliases:
                     if desired_tags_dict[tag_alias] in image_tags:
-                        artist_metadata["releases"]["albums"][album_index]["media"][tag_alias] = json_response.get(desired_tags_dict[tag_alias], "N/A")
+                        if not json_response.get(desired_tags_dict[tag_alias], None) is None and not json_response.get(desired_tags_dict[tag_alias], None) == "":
+                            artist_metadata["releases"]["albums"][album_index]["media"][tag_alias] = json_response.get(desired_tags_dict[tag_alias], "N/A")
                     else:
-                        artist_metadata["releases"]["albums"][album_index][tag_alias] = json_response.get(desired_tags_dict[tag_alias], "N/A")
+                        if not json_response.get(desired_tags_dict[tag_alias], None) is None and not json_response.get(desired_tags_dict[tag_alias], None) == "":
+                            artist_metadata["releases"]["albums"][album_index][tag_alias] = json_response.get(desired_tags_dict[tag_alias], "N/A")
 
         if not found_album:
             print(f"ERROR - Album not found in {self.ARTIST_METADATA_DIRECTORY}/{artist}.json")
@@ -148,15 +154,11 @@ class AudioDbClient:
         with open(f"{self.ARTIST_METADATA_DIRECTORY}/{artist}.json", "w") as file:
             json.dump(artist_metadata, file, indent=4)
 
-wiki = wikipediaapi.Wikipedia(
-    user_agent=f"PrismaMusic/v0.1 ({helpers.EMAIL_ADDRESS})",
-    language= "en"
-)
-page=wiki.page("Rauw Alejandro")
-print(page.summary)
 
+"""
 testClient = AudioDbClient()
-#testClient.search_artist("Bad Bunny")
-#testClient.search_album("Rauw Alejandro", "Cosa Nuestra")
+testClient.search_artist("Rauw Alejandro")
+testClient.search_album("Rauw Alejandro", "Cosa Nuestra")
+"""
 #response = helpers.request_helper("https://www.theaudiodb.com/api/v1/json/123/searchtrack.php", {"s": "Bad Bunny", "t": "El Club"}, "")
 #print(response.json())

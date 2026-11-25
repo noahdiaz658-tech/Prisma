@@ -38,9 +38,12 @@ class MetadataExtractor:
             keys = [key for key in self.song_metadata]
             song_audio = EasyID3(song_path)
 
+            self.song_metadata["path"] = str(song_path.resolve())
+
             for index, key in enumerate(song_audio.keys(), start = 1):
                 if key == keys[index]:
                     self.song_metadata[key] = song_audio.get(key, f"Couldn't find {key[0]}")[0]
+
 
 
 

@@ -3,5 +3,6 @@ __pycache__/
 *.pyc
 .idea/
 .mp3
+.mp4
 .env
 src/cache

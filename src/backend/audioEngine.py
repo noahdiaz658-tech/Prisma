@@ -7,7 +7,7 @@ import mpv
 from pathlib import Path
 
 LIBRARY_FILE = r"../cache/temp/Temp_Library.json"
-MEDIA_DIRECTORY = r"../cache/songs"
+MEDIA_DIRECTORY = r"../cache/media/songs"
 
 class AudioEngine:
 
@@ -49,6 +49,9 @@ class AudioEngine:
     def change_volume(self, volume:int):
         self.player.volume = volume
 
+    def get_volume(self):
+        return self.player.volume
+
     def seek(self, pos:int):
         self.player.seek(pos, reference="absolute")
 
@@ -63,10 +66,15 @@ engine = AudioEngine()
 while True:
     engine.play()
 
-"""
+
     user_input = input("Type 's' to skip: ")
-    if user_input == "skip":
+    if user_input == "s":
+        print(engine.get_volume())
         engine.skip()
     elif user_input == "b":
         engine.back()
-"""
+    elif user_input == "++":
+        engine.seek_skip(10)
+    elif user_input == "--":
+        engine.seek_skip(-10)
+

@@ -93,7 +93,7 @@ class DeezerClient:
             )
 
             if not any(
-                item["genre_id"] == album["genre_id"]
+                item["genre_id"] == album["genre_id"] and item["genre_id"] < 0
                 for item in deezer_genres
             ):
                 deezer_genres.append(

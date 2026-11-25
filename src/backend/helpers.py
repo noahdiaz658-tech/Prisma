@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 import time
+from pathlib import Path
 
 import requests
 import json, os
@@ -48,3 +49,22 @@ def request_helper(endpoint, parameters, header):
         attempt += 1
 
     return None
+
+def resolve_image_url(media_directory):
+
+    artist = Path(media_directory).resolve().stem
+
+    media_cache_directory = Path(f"../cache/media/artist_images/{artist}")
+
+    media_cache_directory.mkdir(exist_ok = True)
+
+    with open (media_directory, "r") as file:
+        artist_metadata = json.load(file)
+
+    for image_type, image_url in dict(artist_metadata["media"]).items():
+        response = requests.get(image_url)
+
+        with open(f"../cache/media/artist_images/{artist}/{image_type}.png", "wb") as file:
+            file.write(response.content)
+
+resolve_image_url("../cache/temp/artist_metadata/Rauw Alejandro.json")
